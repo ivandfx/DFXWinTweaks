@@ -3,7 +3,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 1
 A medida que pase el tiempo, el programa se irá actualizando, habilitando las funciones online y añadiendo nuevas opciones.
 
 
-
+COSAS IMPORTANTES
 Windows Defender elimina mi descarga ¿qué puedo hacer?
 
 Puede ser que Windows Defender bloquee el programa para que no se ejecute. Este programa es totalmente seguro, así que puedes acceder a Configuración > Actualización y seguridad > Protección contra virus y amenazas > "Crea una excepción para DFX Tweaker"
