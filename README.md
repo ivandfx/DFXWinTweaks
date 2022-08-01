@@ -4,7 +4,7 @@ A medida que pase el tiempo, el programa se irá actualizando, habilitando las f
 
 
 
-##Windows Defender elimina mi descarga ¿qué puedo hacer?##
+Windows Defender elimina mi descarga ¿qué puedo hacer?
 
 Puede ser que Windows Defender bloquee el programa para que no se ejecute. Este programa es totalmente seguro, así que puedes acceder a Configuración > Actualización y seguridad > Protección contra virus y amenazas > "Crea una excepción para DFX Tweaker"
 Al iniciar el programa, puedes deshabilitar Windows Defender completamente para no volver a tener este problema :D
