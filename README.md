@@ -1,4 +1,5 @@
 |||
+|---|---|
 |**Versión más reciente**|v1.2|
 |**Fecha de lanzamiento**|22/09/2022|
 
