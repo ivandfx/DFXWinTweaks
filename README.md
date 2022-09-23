@@ -5,7 +5,7 @@
 |**Versión más reciente**|v1.2|
 |**Fecha de lanzamiento**|22/09/2022|
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Na2_8oLHtylBwKR_cnzjPMsScU5Eo507P0_Ha8GkRpHazwojd0JP7aNKk540QRGo4t080_YhlTPNOJr_WHuKS5D47Uto0-4rW7DY-SVyGEcDTf2KWkt0BQYnJZNb-0wdn0m_9v6kCmiAfz-DJ6hdiyP2GGc4efaCyJe5sfTeVeuF4N1q1y4Uo-LoBA/s979/tweaker1.2.png)
+![Menú de DFX Tweaker en la versión 1.2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Na2_8oLHtylBwKR_cnzjPMsScU5Eo507P0_Ha8GkRpHazwojd0JP7aNKk540QRGo4t080_YhlTPNOJr_WHuKS5D47Uto0-4rW7DY-SVyGEcDTf2KWkt0BQYnJZNb-0wdn0m_9v6kCmiAfz-DJ6hdiyP2GGc4efaCyJe5sfTeVeuF4N1q1y4Uo-LoBA/s979/tweaker1.2.png)
 
 ### ¿Qué es DFX Tweaker?
 DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 10 y Windows 11 (parcialmente desde la próxima versión 1.3) con la finalidad de poder ajustar (y optimizar) el sistema más allá de lo que Microsoft te permite. A medida que pase el tiempo, el script se irá actualizando, habilitando nuevas funciones.
