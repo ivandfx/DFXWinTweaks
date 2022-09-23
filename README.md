@@ -6,4 +6,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 1
 ### Importante
 DFX Tweaker está basado en AikonCWD Script 5.6, otra herramienta del mismo estilo.
 
+### Funciones online y dependencias
+Poco a poco, voy intentando que todas las funciones posibles estén integradas en el script sin necesidad de conexión a internet ni dependencias adicionales.
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
