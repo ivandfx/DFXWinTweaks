@@ -21,7 +21,7 @@ Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows
 Para descargar AikonCWD Script, baja un poco más. :smile:
 
 ### AikonCWD
-**DFX Tweaker es un fork de** [AikonCWD Script](https://github.com/aikoncwd/win10script) Descárgalo aquí.
+**DFX Tweaker es un fork de** [AikonCWD Script](https://github.com/aikoncwd/win10script). Descárgalo aquí.
 
 Te ha gustado el script? Pues no me felicites a mí, felicita a [AikonCWD](https://github.com/aikoncwd) y ya de paso, ¿quieres invitarle a una caña? Puedes hacerle una donación de cualquier cantidad usando esa opción. :smile:
 
