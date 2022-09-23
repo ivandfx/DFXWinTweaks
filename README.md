@@ -9,7 +9,8 @@ DFX Tweaker está basado en AikonCWD Script 5.6, otra herramienta del mismo esti
 ### Funciones online y dependencias
 Poco a poco, voy intentando que todas las funciones posibles estén integradas en el script sin necesidad de conexión a internet ni dependencias adicionales.
 
-|||
+||||||
+|---|---|
 |**Versión más nueva**|v1.2|
 |**Fecha**|22/9/2022|
 
