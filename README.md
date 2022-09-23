@@ -4,7 +4,7 @@
 DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 10 con la finalidad de poder ajustar (y optimizar) el sistema más allá de lo que Microsoft te permite. A medida que pase el tiempo, el script se irá actualizando, habilitando las funciones online y añadiendo nuevas opciones.
 
 ### Importante
-DFX Tweaker está basado en AikonCWD Script 5.6, otra herramienta del mismo estilo.
+**DFX Tweaker es un fork de** [AikonCWD Script](https://github.com/aikoncwd/win10script)
 
 ### Funciones online y dependencias
 Poco a poco, voy intentando que todas las funciones posibles estén integradas en el script sin necesidad de conexión a internet ni dependencias adicionales.
@@ -13,9 +13,6 @@ Poco a poco, voy intentando que todas las funciones posibles estén integradas e
 |---|---|
 |**Versión más reciente**|v1.2|
 |**Fecha de lanzamiento**|22/09/2022|
-
-
-**DFX Tweaker es un fork de** [AikonCWD Script](https://github.com/aikoncwd/win10script)
 
 Te ha gustado el script? Pues no me felicites a mí, felicita a [AikonCWD](https://github.com/aikoncwd) y ya de paso, ¿quieres invitarle a una caña? Puedes hacerle una donación de cualquier cantidad usando esa opción. :smile:
 
