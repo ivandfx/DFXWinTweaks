@@ -1,5 +1,3 @@
-## DFX Tweaker
-
 |||
 |---|---|
 |**Versión más reciente**|v1.2|
