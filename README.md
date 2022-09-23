@@ -1,4 +1,4 @@
-|||
+|||          A partir del 23 de Septiembre de 2022, DFX Tweaker se moverá a un ciclo bisemanal de actualizaciones.
 |---|---|
 |**Versión más reciente**|v1.2|
 |**Fecha de lanzamiento**|22/09/2022|
