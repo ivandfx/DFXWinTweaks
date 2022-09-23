@@ -15,8 +15,8 @@ Poco a poco, voy intentando que todas las funciones posibles estén integradas e
 Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. Sin embargo, la herramienta llevaba un buen tiempo sin actualizarse, y quería hacer algo en mis ratos libres en los que no hacía nada, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de AikonCWD y su fantástico script.
 Para descargar AikonCWD Script, baja un poco más. :smile:
 
-### Descarga de AikonCWD Script
-**DFX Tweaker es un fork de** [AikonCWD Script](https://github.com/aikoncwd/win10script)
+### AikonCWD
+**DFX Tweaker es un fork de** [AikonCWD Script](https://github.com/aikoncwd/win10script) Descárgalo aquí.
 
 Te ha gustado el script? Pues no me felicites a mí, felicita a [AikonCWD](https://github.com/aikoncwd) y ya de paso, ¿quieres invitarle a una caña? Puedes hacerle una donación de cualquier cantidad usando esa opción. :smile:
 
