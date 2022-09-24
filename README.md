@@ -6,12 +6,12 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 1
 |**Versión más reciente**|v1.2|
 |**Fecha de lanzamiento**|22/09/2022|
 
-A partir del 30 de Septiembre de 2022, DFX Tweaker se moverá a un ciclo bisemanal de actualizaciones.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaPSeSgIUhfKE637odi8lcPapHkzbuk_NzrWRs9XdRzhrRoIJ0WZUvVwsH1O6_zFtyNJsJUJD09BoDP7ERMgrtFBA56jPM_Vs-3XqufUCvsyMY_BGI5dUd2zF0KlbU5xI3ZEn9ZAoHbB_N2U76mswMJ8axikjUzBekAwB0A36ozion7kxLHpbAPksaXA/s979/tweaker1.2.png)
 Menú de DFX Tweaker en la versión 1.2
 
 ### Funciones online y dependencias
-Poco a poco, voy intentando que todas las funciones posibles estén integradas en el script sin necesidad de conexión a internet ni dependencias adicionales.
+DFX Tweaker ya no requerirá de conexión a internet para ninguna de las opciones desde la versión 1.3.
+Solo se requerirá conexión a internet al buscar actualizaciones.
 
 ### Disponibilidad en otros idiomas
 DFX Tweaker estará disponible en Inglés y Francés en futuras versiones.
