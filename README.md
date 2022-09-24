@@ -7,7 +7,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente 
 |**Fecha de lanzamiento**|24 de Septiembre de 2022|
 |**Conexión a internet requerida**|Solo para actualizaciones|
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaPSeSgIUhfKE637odi8lcPapHkzbuk_NzrWRs9XdRzhrRoIJ0WZUvVwsH1O6_zFtyNJsJUJD09BoDP7ERMgrtFBA56jPM_Vs-3XqufUCvsyMY_BGI5dUd2zF0KlbU5xI3ZEn9ZAoHbB_N2U76mswMJ8axikjUzBekAwB0A36ozion7kxLHpbAPksaXA/s979/tweaker1.2.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbyY5N3A0vwglmrLJoXb3iQjpbmYsWX3QJNd2LBx-PK9pVitJ1__j9qKC45m_eIKlZz_a_B44B8sHw7wvZZAbmf0h0rx3oaHIdHP_VPGOFhCEK0jSswD86MFmUhpEVu4pk5Mmg2HifYqEIUG2DQ63WEsPOUU0BQmPm7PBPQYzSpxsmw1OLkw64n7V7PA/s979/dfx13menu.png)
 Menú de DFX Tweaker en la versión 1.2
 
 ### Funciones online y dependencias
