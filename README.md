@@ -1,17 +1,17 @@
 ### ¿Qué es DFX Tweaker?
-DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 10 (Soporte parcial para Windows 11 desde la versión 1.3) con la finalidad de poder ajustar (y optimizar) el sistema más allá de lo que Microsoft te permite. A medida que pase el tiempo, el script se irá actualizando, habilitando nuevas funciones.
+DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente para Windows 10 y Windows 11 (desde la 1.3) con la finalidad de poder ajustar y optimizar el sistema más allá de lo que Microsoft te permite. A medida que pase el tiempo, el script se irá actualizando, habilitando nuevas funciones.
 
 |||
 |---|---|
-|**Versión más reciente**|v1.2|
-|**Fecha de lanzamiento**|22 de Septiembre de 2022|
-|**Conexión a internet**|Incompatible actualmente|
+|**Versión más reciente**|1.3|
+|**Fecha de lanzamiento**|24 de Septiembre de 2022|
+|**Conexión a internet requerida**|Solo para actualizaciones|
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaPSeSgIUhfKE637odi8lcPapHkzbuk_NzrWRs9XdRzhrRoIJ0WZUvVwsH1O6_zFtyNJsJUJD09BoDP7ERMgrtFBA56jPM_Vs-3XqufUCvsyMY_BGI5dUd2zF0KlbU5xI3ZEn9ZAoHbB_N2U76mswMJ8axikjUzBekAwB0A36ozion7kxLHpbAPksaXA/s979/tweaker1.2.png)
 Menú de DFX Tweaker en la versión 1.2
 
 ### Funciones online y dependencias
-DFX Tweaker ya no requerirá de conexión a internet para ninguna de las opciones desde la versión 1.3.
+DFX Tweaker no requiere conexión a internet desde la versión 1.3.
 Solo se requerirá conexión a internet al buscar actualizaciones.
 
 ### Disponibilidad en otros idiomas
