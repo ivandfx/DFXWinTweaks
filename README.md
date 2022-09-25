@@ -2,7 +2,7 @@
 DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente para Windows 10 y Windows 11 (desde la 1.3) con la finalidad de poder ajustar y optimizar el sistema más allá de lo que Microsoft te permite. A medida que pase el tiempo, el script se irá actualizando, habilitando nuevas funciones.
 
 |---|---|
-|-Notas-|---|
+|---|---|
 |**Versión más reciente**|1.3|
 |**Fecha de lanzamiento**|24 de Septiembre de 2022|
 |**Conexión a internet requerida**|Solo para actualizaciones|
