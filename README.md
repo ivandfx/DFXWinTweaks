@@ -1,5 +1,5 @@
 ### ¿Qué es DFX Tweaker?
-DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente para Windows 10 y Windows 11 (desde la 1.3) con la finalidad de poder ajustar y optimizar el sistema más allá de lo que Microsoft te permite. A medida que pase el tiempo, el script se irá actualizando, habilitando nuevas funciones.
+DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente para Windows 10 y Windows 11 (desde la 1.3) con la finalidad de poder ajustar y optimizar el sistema más allá de lo que Microsoft te permite. A medida que el desarrollo avance, se irán añadiendo nuevas funciones.
 
 |---|---|
 |---|---|
@@ -13,10 +13,12 @@ Menú de DFX Tweaker en la versión 1.3.
 
 ### Funciones online y dependencias
 DFX Tweaker no requiere conexión a internet desde la versión 1.3.
-Solo se requerirá conexión a internet al buscar actualizaciones.
 
 ### Disponibilidad en otros idiomas
-DFX Tweaker estará disponible en Inglés y Francés en futuras versiones.
+DFX Tweaker estará disponible en otros idiomas cuando se determine que el desarrollo ha madurado.
+Por ahora, los idiomas establecidos son:
+- Inglés
+- Francés
 
 ### Sobre las versiones Beta
 Todas las versiones Beta de DFX Tweaker se publicarán bajo el nombre clave **Lumien Canyon** y utilizando la función *pre-release* de GitHub.
