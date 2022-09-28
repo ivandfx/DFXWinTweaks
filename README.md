@@ -15,7 +15,7 @@ Menú de DFX Tweaker en la versión 1.3.
 DFX Tweaker no requiere conexión a internet desde la versión 1.3.
 
 ### Disponibilidad en otros idiomas
-DFX Tweaker estará disponible en otros idiomas cuando se determine que el desarrollo ha madurado.
+DFX Tweaker estará disponible en otros idiomas cuando se determine que el desarrollo es lo suficientemente maduro.
 Por ahora, los idiomas establecidos son:
 - Inglés
 - Francés
