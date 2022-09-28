@@ -24,7 +24,7 @@ Por ahora, los idiomas establecidos son:
 Todas las versiones Beta de DFX Tweaker se publicarán bajo el nombre clave **Lumien Canyon** y utilizando la función *pre-release* de GitHub.
 
 ### ¿Por qué DFX Tweaker?
-Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. Sin embargo, la herramienta llevaba un buen tiempo sin actualizarse, y quería hacer algo en mis ratos libres en los que no hacía nada, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de AikonCWD y su fantástico script.
+Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones , y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de AikonCWD y su fantástico script.
 Para descargar AikonCWD Script, baja un poco más. :smile:
 
 ### AikonCWD
