@@ -3,7 +3,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente 
 
 |---|---|
 |---|---|
-|**Versión más reciente**|1.4 - Public Beta|
+|**Versión más reciente**|1.4 - Beta Pública|
 |**Versión en pruebas**|1.4 - Estable|
 |**Fecha de lanzamiento**|25 de Septiembre de 2022|
 |**Conexión a internet requerida**|Solo para actualizaciones en un futuro|
@@ -17,6 +17,9 @@ Solo se requerirá conexión a internet al buscar actualizaciones.
 
 ### Disponibilidad en otros idiomas
 DFX Tweaker estará disponible en Inglés y Francés en futuras versiones.
+
+### Sobre las versiones Beta
+Todas las versiones Beta de DFX Tweaker se publicarán bajo el nombre clave **Lumien Canyon** y utilizando la función *pre-release* de GitHub.
 
 ### ¿Por qué DFX Tweaker?
 Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. Sin embargo, la herramienta llevaba un buen tiempo sin actualizarse, y quería hacer algo en mis ratos libres en los que no hacía nada, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de AikonCWD y su fantástico script.
