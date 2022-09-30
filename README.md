@@ -4,8 +4,8 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente 
 |||
 |---|---|
 |**Versión más reciente**|1.4 Compilación 1176|
-|**Versión beta más reciente**|1.4 Beta Pública Compilación 1170|
 |**Fecha de lanzamiento**|30 de Septiembre de 2022|
+|**Versión beta más reciente**|1.4 Beta Pública|
 |**Próxima versión**|Por determinar|
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbyY5N3A0vwglmrLJoXb3iQjpbmYsWX3QJNd2LBx-PK9pVitJ1__j9qKC45m_eIKlZz_a_B44B8sHw7wvZZAbmf0h0rx3oaHIdHP_VPGOFhCEK0jSswD86MFmUhpEVu4pk5Mmg2HifYqEIUG2DQ63WEsPOUU0BQmPm7PBPQYzSpxsmw1OLkw64n7V7PA/s979/dfx13menu.png)
