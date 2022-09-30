@@ -9,7 +9,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente 
 |**Próxima versión**|Por determinar|
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVL-d8pnFfID5ygH0Dx2TbI8PDJaQe82EQjdBQuB_U5N-SKNajTBOcT2mLgALChq0ElY3tErOBPzFJDfpe5Kdn6dnk-kaZrNUc6sjOvMCk3uN8KZt9117V00xmKAIXFEzNIOhEDuUeSUder19bFFZMg-O4U8oqIuM8Yc70-5D5ouD_-wx1CPx14ngOg/s979/dfxmenu14.png)
-Menú de DFX Tweaker en la versión 1.3.
+Menú de DFX Tweaker en la versión 1.4.
 
 ### Funciones online y dependencias
 DFX Tweaker no requiere conexión a internet desde la versión 1.3.
