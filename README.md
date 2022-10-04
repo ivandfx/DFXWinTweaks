@@ -16,10 +16,10 @@ DFX Tweaker no requiere conexión a internet desde la versión 1.3.
 Las primeras versiones estaban *casi* preparadas para el servicio de actualizaciones, pero se desechó la idea para hacer el script completamente offline.
 
 ### Disponibilidad en otros idiomas
-DFX Tweaker estará disponible en otros idiomas en la versión 1.4.1
+DFX Tweaker estará disponible en otros idiomas conforme el desarrollo madure.
 Por ahora, los idiomas establecidos son:
-- Inglés
-- Francés
+- Inglés (En desarrollo)
+- Francés (Inactivo)
 
 ### Sobre las versiones Beta
 Todas las versiones Beta de DFX Tweaker se publicarán bajo el nombre clave **Lumien Canyon** y utilizando la función *pre-release* de GitHub.
