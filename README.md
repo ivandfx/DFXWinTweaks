@@ -16,7 +16,7 @@ DFX Tweaker no requiere conexión a internet desde la versión 1.3.
 Las primeras versiones estaban *casi* preparadas para el servicio de actualizaciones, pero se desechó la idea para hacer el script completamente offline.
 
 ### Disponibilidad en otros idiomas
-DFX Tweaker estará disponible en otros idiomas cuando se determine que el desarrollo es lo suficientemente maduro.
+DFX Tweaker estará disponible en otros idiomas en la versión 1.4.1
 Por ahora, los idiomas establecidos son:
 - Inglés
 - Francés
