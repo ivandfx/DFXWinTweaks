@@ -3,8 +3,8 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente 
 
 |||
 |---|---|
-|**Versión más reciente**|Versión 1.4|
-|**Fecha de lanzamiento**|30 de Septiembre de 2022|
+|**Versión más reciente**|Versión 1.4.1|
+|**Fecha de lanzamiento**|4 de Octubre de 2022|
 |**Beta más reciente**|1.4 Beta Pública|
 |**En desarrollo**|Versión 1.5|
 
@@ -12,8 +12,9 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada originalmente 
 Menú de DFX Tweaker en la versión 1.4.
 
 ### Funciones online y dependencias
-DFX Tweaker no requiere conexión a internet desde la versión 1.3.
+DFX Tweaker no requiere conexión a internet.
 Las primeras versiones estaban *casi* preparadas para el servicio de actualizaciones, pero se desechó la idea para hacer el script completamente offline.
+A pesar de esto, la versión 1.4.1 fue la última en mantener código que permitiera actualizar el script con una conexión a internet, pese a estar deshabilitado.
 
 ### Disponibilidad en otros idiomas
 DFX Tweaker estará disponible en otros idiomas conforme el desarrollo madure.
