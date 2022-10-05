@@ -20,6 +20,7 @@ A pesar de esto, la versión 1.4.1 fue la última en mantener código que permit
 
 ### Sobre las actualizaciones
 Las actualizaciones son manuales, por lo que el usuario deberá visitar esta página en el apartado **Releases** cada vez que quiera actualizar el script.
+
 AVISO: Las actualizaciones se ralentizarán a partir de la versión 1.6.
 
 ### Disponibilidad en otros idiomas
@@ -32,7 +33,9 @@ Por ahora, los idiomas establecidos son:
 Todas las versiones Beta de DFX Tweaker se publicarán bajo el nombre clave **Lumien Canyon**.
 
 ### ¿Por qué DFX Tweaker?
-Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de AikonCWD y su fantástico script.
+Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. 
+
+Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de AikonCWD y su fantástico script.
 Para descargar AikonCWD Script, baja un poco más. :smile:
 
 ### AikonCWD Script
