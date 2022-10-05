@@ -19,7 +19,7 @@ Las primeras versiones estaban *casi* preparadas para el servicio de actualizaci
 A pesar de esto, la versión 1.4.1 fue la última en mantener código que permitiera actualizar el script con una conexión a internet, pese a estar deshabilitado.
 
 ### Sobre las actualizaciones
-Las actualizaciones son manuales, por lo que el usuario deberá visitar esta página en el apartado **Releases** cada vez que quiera actualizar el script.
+Las actualizaciones son manuales, por lo que deberás visitar el apartado **Releases** de vez en cuando si hubiese una nueva versión.
 
 AVISO: Las actualizaciones se ralentizarán a partir de la versión 1.6.
 
@@ -28,9 +28,6 @@ DFX Tweaker estará disponible en otros idiomas conforme el desarrollo madure.
 Por ahora, los idiomas establecidos son:
 - Inglés (En desarrollo)
 - Francés (Inactivo)
-
-### Sobre las versiones Beta
-Todas las versiones Beta de DFX Tweaker se publicarán bajo el nombre clave **Lumien Canyon**.
 
 ### ¿Por qué DFX Tweaker?
 Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. 
