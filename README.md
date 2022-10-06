@@ -1,40 +1,40 @@
-### ¿Qué es DFX Tweaker?
-DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 10 y Windows 11 con la finalidad de poder personalizar y optimizar el sistema más allá de lo que Microsoft te permite. A medida que el desarrollo avance, se irán añadiendo nuevas funciones.
+### What is DFX Tweaker?
+DFX Tweaker is a small but versatile tool designed for Windows 10 and Windows 11 in order to be able to customize and optimize the system beyond what Microsoft allows you. As development progresses, new features will be added.
 
-|Actual||-|Próximamente||
+|Current||-|Coming soon||
 |---|---|---|---|---|
-|**Versión más reciente**|Versión 1.4.2|-|**Próxima versión**|1.5|
-|**Fecha de lanzamiento**|5 de Octubre de 2022|-|**Lanzamiento determinado**|7 de Octubre de 2022|
-|**Basado en**|AikonCWD W10 Script 5.6|-|**En desarrollo**|1.6|
+|**Latest version**|Version 1.4.2|-|**Next version**|1.5|
+|**Release Date**|October 5, 2022|-|**Release Determined**|October 7, 2022|
+|**Based on**|AikonCWD W10 Script 5.6|-|**Under development**|1.6|
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVL-d8pnFfID5ygH0Dx2TbI8PDJaQe82EQjdBQuB_U5N-SKNajTBOcT2mLgALChq0ElY3tErOBPzFJDfpe5Kdn6dnk-kaZrNUc6sjOvMCk3uN8KZt9117V00xmKAIXFEzNIOhEDuUeSUder19bFFZMg-O4U8oqIuM8Yc70-5D5ouD_-wx1CPx14ngOg/s979/dfxmenu14.png)
-Menú de DFX Tweaker en la versión 1.4.
+DFX Tweaker menu in version 1.4.
 
-### Funciones online y dependencias
-DFX Tweaker no requiere conexión a internet.
+### Online functions and dependencies
+DFX Tweaker does not require an internet connection.
 
-### Sobre las actualizaciones
-Las actualizaciones son manuales, por lo que deberás visitar el apartado **Releases** de vez en cuando si hubiese una nueva versión.
+### About updates
+The updates are manual, so you should visit the **Releases** section from time to time if there is a new version.
 
-AVISO: Desde el lanzamiento de la versión 1.6, las actualizaciones llegarán con menos frecuencia.
+NOTICE: Since the release of version 1.6, updates will arrive less frequently.
 
-### Disponibilidad en otros idiomas
-DFX Tweaker estará disponible en otros idiomas conforme el desarrollo madure.
-Por ahora, los idiomas establecidos son:
-- Inglés (En desarrollo)
-- Francés (Inactivo)
+### Availability in other languages
+DFX Tweaker will be available in additional languages ​​as development matures.
+For now, the established languages ​​are:
+- English (Under development)
+- French (Inactive)
 
-### ¿Por qué DFX Tweaker?
-Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. 
+### Why DFX Tweaker?
+Because I needed a small tool to make some changes in Windows, and I came across AikonCWD Script, a small tool that did what I wanted.
 
-Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento. Así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de Aikon y su fantástico script.
+However, the tool needed an internet connection for most of its functions, and I wanted to do something like that, but work without internet right out of the box. So the idea of ​​making this project came up, of course, being as transparent as possible about the existence of Aikon and its fantastic script.
 
-Para descargar AikonCWD Script, baja un poco más. :smile:
+To download AikonCWD Script, scroll down a bit further. :smile:
 
 ### AikonCWD Script
-DFX Tweaker es un fork de [**AikonCWD Script**](https://github.com/aikoncwd/win10script). Descárgalo aquí.
+DFX Tweaker is a fork of [**AikonCWD Script**](https://github.com/aikoncwd/win10script). Download it here.
 
-¿Te ha gustado el script? Pues no me felicites a mí, felicita a [**AikonCWD**](https://github.com/aikoncwd) y ya de paso, ¿quieres invitarle a una caña? Puedes hacerle una donación. :smile:
+Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) and by the way, do you want to buy him a beer? You can make a donation. :smile:
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />DFX Tweaker está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https:/ /i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />DFX Tweaker is licensed under a <a rel="license" href="http://creativecommons.org/ licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
