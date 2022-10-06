@@ -1,0 +1,42 @@
+### ¿Qué es DFX Tweaker?
+DFX Tweaker es una pequeña pero versátil herramienta diseñada para Windows 10 y Windows 11 con el fin de poder personalizar y optimizar el sistema más allá de lo que te permite Microsoft. A medida que avance el desarrollo, se agregarán nuevas funciones.
+
+|Actual||-|Próximamente||
+|---|---|---|---|---|
+|**Última versión**|Versión 1.4.2|-|**Próxima versión**|1.5|
+|**Fecha de lanzamiento**|5 de octubre de 2022|-|**Lanzamiento determinado**|7 de octubre de 2022|
+|**Basado en**|AikonCWD W10 Script 5.6|-|**En desarrollo**|1.6|
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVL-d8pnFfID5ygH0Dx2TbI8PDJaQe82EQjdBQuB_U5N-SKNajTBOcT2mLgALChq0ElY3tErOBPzFJDfpe5Kdn6dnk-kaZrNUc6sjOvMCk3uN8KZt9117V00xmKAIXFEzNIOhEDuUeSUder19bFFZMg-O4U8oqIuM8Yc70-5D5ouD_-wx1CPx14ngOg/s979/dfxmenu14.png)
+Menú de DFX Tweaker en la versión 1.4.
+
+### Funciones y dependencias
+DFX Tweaker no requiere una conexión a Internet.
+
+### Sobre las actualizaciones
+Las actualizaciones son manuales, por lo que debes visitar la sección de **Lanzamientos** de vez en cuando si hay una nueva versión.
+
+AVISO: Desde el lanzamiento de la versión 1.6, las actualizaciones llegarán con menos frecuencia.
+
+### Disponibilidad en otros idiomas
+DFX Tweaker estará disponible en idiomas adicionales a medida que el desarrollo madure.
+Por ahora, los idiomas establecidos son:
+- Español (Original)
+- Inglés (En desarrollo)
+- Francés (Inactivo)
+
+### ¿Por qué DFX Tweaker?
+Porque necesitaba una herramienta para hacer algunos cambios en Windows y encontré AikonCWD Script, una pequeña herramienta que hacía lo que yo necesitaba.
+
+Sin embargo, la herramienta necesitaba una conexión a Internet para la mayoría de sus funciones, y quería hacer algo así, pero trabajar sin Internet desde el primer momento. 
+Así que surgió la idea de hacer este proyecto, por supuesto, siendo lo más transparente posible sobre la existencia de Aikon y su fantástico guión.
+
+Para descargar AikonCWD Script, baja un poco. :sonreír:
+
+### Guión AikonCWD
+DFX Tweaker es una bifurcación de [**AikonCWD Script**](https://github.com/aikoncwd/win10script). Descarguelo aqui.
+
+¿Te ha gustado el script? Pues no me felicitesa mí, felicita a [**AikonCWD**](https://github.com/aikoncwd) y por cierto, ¿quieres invitarle una cerveza? Puedes hacerle una donación. 😃
+
+
+<a rel="licencia" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https:/ /i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />DFX Tweaker tiene licencia bajo una <a rel="license" href="http://creativecommons.org / licenses/by/4.0/">Licencia internacional Creative Commons Attribution 4.0</a>.
