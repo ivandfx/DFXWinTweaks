@@ -21,7 +21,7 @@ NOTICE: Since the release of version 1.6, updates will arrive less frequently.
 ### Availability in other languages
 DFX Tweaker will be available in additional languages ​​as development matures.
 For now, the established languages ​​are:
-- Spanish (Original)
+- Spanish (Completed)
 - English (Under development)
 - French (Inactive)
 
