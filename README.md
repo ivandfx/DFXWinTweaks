@@ -1,5 +1,5 @@
 ### What is DFX Tweaker?
-DFX Tweaker is a small but versatile tool designed for Windows 10 and Windows 11 in order to be able to customize and optimize the system beyond what Microsoft allows you. As development progresses, new features will be added.
+DFX Tweaker is a small but versatile tool designed to customize and optimize the system beyond what Microsoft allows you. As development progresses, new features will be added.
 
 |Current||-|Coming soon||
 |---|---|---|---|---|
