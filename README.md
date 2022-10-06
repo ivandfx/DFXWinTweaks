@@ -29,7 +29,7 @@ Por ahora, los idiomas establecidos son:
 ### ¿Por qué DFX Tweaker?
 Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. 
 
-Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento, así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de Aikon y su fantástico script.
+Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento (a excepción de las actualizaciones) Así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de Aikon y su fantástico script.
 
 Para descargar AikonCWD Script, baja un poco más. :smile:
 
