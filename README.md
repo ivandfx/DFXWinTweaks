@@ -7,13 +7,11 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 1
 |**Fecha de lanzamiento**|5 de Octubre de 2022|-|**Lanzamiento determinado**|7 de Octubre de 2022|
 |**Basado en**|AikonCWD W10 Script 5.6|-|**En desarrollo**|1.6|
 
-
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVL-d8pnFfID5ygH0Dx2TbI8PDJaQe82EQjdBQuB_U5N-SKNajTBOcT2mLgALChq0ElY3tErOBPzFJDfpe5Kdn6dnk-kaZrNUc6sjOvMCk3uN8KZt9117V00xmKAIXFEzNIOhEDuUeSUder19bFFZMg-O4U8oqIuM8Yc70-5D5ouD_-wx1CPx14ngOg/s979/dfxmenu14.png)
 Menú de DFX Tweaker en la versión 1.4.
 
 ### Funciones online y dependencias
-DFX Tweaker no requiere conexión a internet, aunque se está trabajando para habilitar las actualizaciones.
+DFX Tweaker no requiere conexión a internet.
 
 ### Sobre las actualizaciones
 Las actualizaciones son manuales, por lo que deberás visitar el apartado **Releases** de vez en cuando si hubiese una nueva versión.
@@ -29,7 +27,7 @@ Por ahora, los idiomas establecidos son:
 ### ¿Por qué DFX Tweaker?
 Porque necesitaba una pequeña herramienta para hacer algunos cambios en Windows, y me topé con AikonCWD Script, una pequeña herramienta que cumplió con lo que quería. 
 
-Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento (a excepción de las actualizaciones) Así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de Aikon y su fantástico script.
+Sin embargo, la herramienta necesitaba conexión a internet para buena parte de las funciones, y quería hacer algo como ello, pero que funcionara sin internet desde el primer momento. Así que surgió la idea de hacer este proyecto, cómo no, siendo lo más transparente posible sobre la existencia de Aikon y su fantástico script.
 
 Para descargar AikonCWD Script, baja un poco más. :smile:
 
