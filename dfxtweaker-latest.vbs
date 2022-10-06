@@ -1221,36 +1221,6 @@ Function restoreMenu()
 	Call restoreMenu()
 End Function
 
-Function updateFinder()
-	On Error Resume Next
-	printf ""
-	printf " > Version actual: " & currentVersion
-	oWEB.Open "GET", "https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/updateFinder", False
-	oWEB.Send
-	printf " > Version GitHub: " & oWEB.responseText
-
-	If CDbl(Replace(oWEB.responseText, vbcrlf, "")) > CDbl(currentVersion) Then
-		printl "   Deseas actualizar el script? (s/n): "
-		res = scanf()
-		If res = "s" Then
-			printf ""
-			printl " > Descargando la version mas reciente... "
-			oWEB.Open "GET", "https://raw.githubusercontent.com/ivandfx/DFXTweaker/blob/main/dfxtweaker-latest.vbs", False
-			oWEB.Send
-			wait(1)
-			Set F = oFSO.CreateTextFile(WScript.ScriptFullName, 2, True)
-				F.Write oWEB.responseText
-			F.Close
-			printf "OK!"
-			wait(1)
-			oWSH.Run WScript.ScriptFullName
-			WScript.Quit
-		End If
-	Else
-		printf "   Tienes la ultima version"
-	End If
-End Function
-
 Function printf(txt)
 	WScript.StdOut.WriteLine txt
 End Function
