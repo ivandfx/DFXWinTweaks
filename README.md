@@ -14,7 +14,7 @@ DFX Tweaker menu in version 1.4.
 DFX Tweaker does not require an internet connection.
 
 ### About updates
-The updates are manual, so you should visit the **Releases** section from time to time if there is a new version.
+The updates have to be downloaded manually, so you should visit the **Releases** section from time to time if there is a new version.
 
 NOTICE: Since the release of version 1.6, updates will arrive less frequently.
 
