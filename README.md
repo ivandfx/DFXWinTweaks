@@ -5,7 +5,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 1
 |---|---|---|---|---|
 |**Versión más reciente**|Versión 1.4.2|-|**Próxima versión**|1.5|
 |**Fecha de lanzamiento**|5 de Octubre de 2022|-|**Lanzamiento determinado**|7 de Octubre de 2022|
-|Basado en|AikonCWD W10 Script 5.6|-|**En desarrollo**|1.6|
+|**Basado en**|AikonCWD W10 Script 5.6|-|**En desarrollo**|1.6|
 
 
 
