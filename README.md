@@ -14,9 +14,9 @@ DFX Tweaker menu in version 1.4.
 DFX Tweaker does not require an internet connection.
 
 ### About updates
-The updates have to be downloaded manually, so you should visit the **Releases** section from time to time if there is a new version.
+Since DFX Tweaker doesn't needs internet connection, updates have to be downloaded manually, so you should visit the **Releases** section from time to time if there is a new version.
 
-NOTICE: Since the release of version 1.6, updates will arrive less frequently.
+**NOTICE: Since the release of version 1.6, updates will arrive less frequently.**
 
 ### Availability in other languages
 DFX Tweaker will be available in additional languages ​​as development matures.
@@ -30,7 +30,7 @@ Because I needed a small tool to make some changes in Windows, and I came across
 
 However, the tool needed an internet connection for most of its functions, and I wanted to do something like that, but work without internet right out of the box. So the idea of ​​making this project came up, of course, being as transparent as possible about the existence of Aikon and its fantastic script.
 
-To download AikonCWD Script, scroll down a bit further. :smile:
+To download AikonCWD Script, scroll down a bit further.
 
 ### AikonCWD Script
 DFX Tweaker is a fork of [**AikonCWD Script**](https://github.com/aikoncwd/win10script). Download it here.
