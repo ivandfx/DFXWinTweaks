@@ -1225,7 +1225,7 @@ Function updateFinder()
 	On Error Resume Next
 	printf ""
 	printf " > Version actual: " & currentVersion
-	oWEB.Open "GET", "https://raw.githubusercontent.com/ivandfx/DFXTweaker/blob/main/updateFinder", False
+	oWEB.Open "GET", "https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/updateFinder", False
 	oWEB.Send
 	printf " > Version GitHub: " & oWEB.responseText
 
