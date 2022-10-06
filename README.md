@@ -20,7 +20,7 @@ A pesar de esto, la versión 1.4.1 fue la última en mantener código que permit
 ### Sobre las actualizaciones
 Las actualizaciones son manuales, por lo que deberás visitar el apartado **Releases** de vez en cuando si hubiese una nueva versión.
 
-AVISO: Las actualizaciones se ralentizarán a partir de la versión 1.6.
+AVISO: Desde el lanzamiento de la versión 1.6, las actualizaciones llegarán con menos frecuencia.
 
 ### Disponibilidad en otros idiomas
 DFX Tweaker estará disponible en otros idiomas conforme el desarrollo madure.
