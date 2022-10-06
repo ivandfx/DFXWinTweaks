@@ -13,9 +13,7 @@ DFX Tweaker es una herramienta pequeña pero versátil, diseñada para Windows 1
 Menú de DFX Tweaker en la versión 1.4.
 
 ### Funciones online y dependencias
-DFX Tweaker no requiere conexión a internet.
-Las primeras versiones estaban *casi* preparadas para el servicio de actualizaciones, pero se desechó la idea para hacer el script completamente offline.
-A pesar de esto, la versión 1.4.1 fue la última en mantener código que permitiera actualizar el script con una conexión a internet, pese a estar deshabilitado.
+DFX Tweaker no requiere conexión a internet, aunque se está trabajando para habilitar las actualizaciones.
 
 ### Sobre las actualizaciones
 Las actualizaciones son manuales, por lo que deberás visitar el apartado **Releases** de vez en cuando si hubiese una nueva versión.
