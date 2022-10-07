@@ -7,7 +7,7 @@ Since version 1.6, DFX Tweaker has language options. Older releases are in Spani
 |---|---|---|---|---|
 |**Latest version**|Version 1.5 - ES|-|**Next version**|1.6|
 |**Release Date**|October 7, 2022|-|**Expected Release Date**|N/A|
-|**Based on**|AikonCWD W10 Script 5.6|-|**Under development**|1.6|
+|****||-|**Under development**|1.6|
 
 DFX Tweaker 1.4 - Menu
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVL-d8pnFfID5ygH0Dx2TbI8PDJaQe82EQjdBQuB_U5N-SKNajTBOcT2mLgALChq0ElY3tErOBPzFJDfpe5Kdn6dnk-kaZrNUc6sjOvMCk3uN8KZt9117V00xmKAIXFEzNIOhEDuUeSUder19bFFZMg-O4U8oqIuM8Yc70-5D5ouD_-wx1CPx14ngOg/s979/dfxmenu14.png)
