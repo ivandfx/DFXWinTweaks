@@ -12,7 +12,7 @@ Since version 1.6, DFX Tweaker has language options. Older releases are in Spani
 |||-|**Under development**|1.6|
 
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEio61QTcaTDM9vwz4ik67YCz-RcMRmpcwMNgTp-WU5xKQw_l-zCImq4op4TSUmYVC-NvzzoQQCxM5sClJWJ0uF338om8utzMmyPXJC7_tJ2isJZL9z40cKawa5x-bCEBmNElhSwmV41Zf4Mjk1qE3erGGtH1jVEMf11WRp3rz50n9vA36xhxc6j2-Ukaw)
-**DFX Tweaker 1.6 Menu (Preview) on Windows 11**
+**DFX Tweaker 1.6 Menu Preview on Windows 11 (English)**
 
 ### Online functions and dependencies
 DFX Tweaker does not require an internet connection.
