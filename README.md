@@ -11,8 +11,8 @@ Since version 1.6, DFX Tweaker has language options. Older releases are in Spani
 |**Release Date**|October 7, 2022|-|**Expected Release Date**|N/A|
 |||-|**Under development**|1.6|
 
-DFX Tweaker 1.6 Menu (Preview) on Windows 11
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEiMUbAuYeC2_M6QEdRjpzV1SEX7bPoyFmRtHGE-KE7-nIDoOJ5-bWStvn242zzVHbxKIUgzXd3hJ0_Ms_2DVzwT9ZO-Yaldy39NFlxJa8Eyw084bGRtCBRQwyaCEFINtG6Zs92jd-tfHcJzaeLDHEFDVSBnzpFNrRVFBzFCsoY5OrkgHqRYCl2GpOZItw)
+**DFX Tweaker 1.6 Menu (Preview) on Windows 11**
 
 ### Online functions and dependencies
 DFX Tweaker does not require an internet connection.
