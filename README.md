@@ -15,7 +15,7 @@ Starting on version 1.6, DFX Tweaker will have language options. Older releases 
 **DFX Tweaker 1.6 Menu Preview on Windows 11 22H2 (English)**
 
 ### Online functions and dependencies
-DFX Tweaker does not require an internet connection, however, some (optional) features can use your browser to open certain pages(ex.DFX Tweaker Releases on GitHub)
+DFX Tweaker does not require an internet connection, however, some (optional) features can use your browser to open certain pages (ex: DFX Tweaker Releases on GitHub)
 
 ### About updates
 Since DFX Tweaker does not require an Internet connection, updates must be downloaded manually, so check the Releases section from time to time if there is a new version.
