@@ -34,8 +34,8 @@ However, the tool needed an internet connection for most of its functions, and I
 
 To download AikonCWD Script, scroll down a bit further.
 
-### AikonCWD Script
-DFX Tweaker is a fork of [**AikonCWD Script**](https://github.com/aikoncwd/win10script). Download it here.
+### AikonCWD W10 Script
+DFX Tweaker is a fork of [**AikonCWD W10 Script**](https://github.com/aikoncwd/win10script). Download it here.
 
 Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) and by the way, do you want to buy him a beer? You can make a donation. :smile:
 
