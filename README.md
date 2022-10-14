@@ -27,7 +27,7 @@ DFX Tweaker will be available in additional languages ​​as development matur
 For now, the established languages ​​are:
 - Spanish (Completed)
 - English (Under development)
-- French (Inactive)
+- French is no longer in my plans because France. 
 
 ### Why DFX Tweaker?
 Because I needed a small tool to make some changes in Windows, and I came across AikonCWD Script, a small tool that did what I wanted.
