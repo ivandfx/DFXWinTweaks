@@ -9,7 +9,7 @@ Starting on version 1.6, DFX Tweaker will have language options. Older releases 
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.5 ES|-|**Next version**|1.6|Ready To Release|
 |**Release Date**|October 7, 2022|-|**Expected Release Date**|October 16, 2022|Ready To Release|
-|**Previous**|Version 1.4.5 ES|-|**Under development**|N/A||
+|**Previous**|Version 1.4.5 ES|-|**Under development**|N/A|N/A|
 
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEio61QTcaTDM9vwz4ik67YCz-RcMRmpcwMNgTp-WU5xKQw_l-zCImq4op4TSUmYVC-NvzzoQQCxM5sClJWJ0uF338om8utzMmyPXJC7_tJ2isJZL9z40cKawa5x-bCEBmNElhSwmV41Zf4Mjk1qE3erGGtH1jVEMf11WRp3rz50n9vA36xhxc6j2-Ukaw)
 **DFX Tweaker 1.6 Menu Preview on Windows 11 22H2 (English)**
