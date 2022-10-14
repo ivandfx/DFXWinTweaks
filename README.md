@@ -5,11 +5,11 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 Starting on version 1.6, DFX Tweaker will have language options. Older releases are only in Spanish.
 
-|Current|Info|-|Coming soon|Info|Extra|
+|Current|Info|-|Coming soon|Info|Extra info|
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.5 ES|-|**Next version**|1.6|
 |**Release Date**|October 7, 2022|-|**Expected Release Date**|October 16, 2022|**Subject to change**|
-|||-|**Under development**|English and Menu (1.6)|
+|||-|**Under development**|1.6|English option and menus
 
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEio61QTcaTDM9vwz4ik67YCz-RcMRmpcwMNgTp-WU5xKQw_l-zCImq4op4TSUmYVC-NvzzoQQCxM5sClJWJ0uF338om8utzMmyPXJC7_tJ2isJZL9z40cKawa5x-bCEBmNElhSwmV41Zf4Mjk1qE3erGGtH1jVEMf11WRp3rz50n9vA36xhxc6j2-Ukaw)
 **DFX Tweaker 1.6 Menu Preview on Windows 11 22H2 (English)**
