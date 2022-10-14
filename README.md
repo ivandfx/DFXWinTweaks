@@ -23,10 +23,9 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 **NOTICE: Since the release of version 1.6, updates will arrive less frequently.**
 
 ### Availability in other languages
-DFX Tweaker will be available in additional languages ​​as development matures.
-For now, the established languages ​​are:
-- Spanish (Completed)
-- English (Under development)
+DFX Tweaker is available in these languages:
+- Spanish
+- English
 
 ### Why DFX Tweaker?
 Because I needed a small tool to make some changes in Windows, and I came across AikonCWD Script, a small tool that did what I wanted.
