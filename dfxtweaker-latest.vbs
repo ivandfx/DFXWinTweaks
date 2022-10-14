@@ -1,4 +1,4 @@
-﻿On Error Resume Next
+is a small but versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new fe﻿On Error Resume Next
 Randomize
 
 Set oADO = CreateObject("Adodb.Stream")
