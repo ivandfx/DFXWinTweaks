@@ -7,7 +7,7 @@ Starting on version 1.6, DFX Tweaker will have language options. Older releases 
 
 |Current|Info|-|Coming soon|Info|Extra info|
 |---|---|---|---|---|---|
-|**Latest version**|Version 1.5 ES|-|**Next version**|1.6|Ready|
+|**Latest version**|Version 1.5 ES|-|**Next version**|Version 1.6|Ready|
 |**Release Date**|October 7, 2022|-|**Expected Release Date**|October 16, 2022|Ready|
 |**Previous**|Version 1.4.2 ES|-|**Under development**|N/A|N/A|
 
