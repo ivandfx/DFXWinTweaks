@@ -20,9 +20,10 @@ DFX Tweaker does not require an internet connection, however, some (optional) fe
 
 ### About updates
 Since DFX Tweaker does not require an Internet connection, updates must be downloaded manually, so check the Releases section from time to time if there is a new version.
+
 Although it doesn't appear anywhere, you should consider DFX Tweaker as a beta for now, because it may contain bugs.
 
-**NOTICE: Since the release of version 1.6, updates will arrive less frequently.**
+**Since the release of version 1.6, updates will arrive less frequently.**
 
 ### Availability in other languages
 DFX Tweaker is available in these languages:
