@@ -5,7 +5,7 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 Starting on version 1.6, DFX Tweaker will have language options. Older releases are only in Spanish.
 
-|Current|Info|-|Coming soon|Info|Extra info|
+|Current|Info|-|Coming soon|Info|Status|
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.5 ES|-|**Next version**|Version 1.6|Ready|
 |**Release Date**|October 7, 2022|-|**Expected Release Date**|October 16, 2022|Ready|
