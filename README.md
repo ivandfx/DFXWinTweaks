@@ -33,7 +33,7 @@ DFX Tweaker is available in these languages:
 ### Why DFX Tweaker?
 Because I needed a small tool to make some changes in Windows, and I came across AikonCWD Script, a small tool that did what I wanted.
 
-However, the tool needed an internet connection for most of its functions, and I wanted to do something like that, but work without internet right out of the box. So the idea of ​​making this project came up, of course, being as transparent as possible about the existence of Aikon and its fantastic script.
+However, the tool needed an internet connection for most of its functions, and I wanted to do something like that, but work without internet right out of the box. So the idea of making this project came up, of course, being as transparent as possible about the existence of Aikon and its fantastic script.
 
 To download AikonCWD Script, scroll down a bit further.
 
