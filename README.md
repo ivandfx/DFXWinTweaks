@@ -6,8 +6,6 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 **Recommended:** Windows 10 1607 or newer for full functionality
 
-Since version 1.6, DFX Tweaker has multiple languages. Older releases are only in Spanish.
-
 |Current|Info|-|Coming soon|Info|Status|
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.6|-|**Next version**|Version 1.7|N/A|
@@ -36,6 +34,7 @@ However, I'm open to solve bugs for modified versions, but I do not support thes
 DFX Tweaker is available in these languages:
 - Spanish
 - English
+Since version 1.6, DFX Tweaker has multiple languages. Older releases are only in Spanish.
 
 ## Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
