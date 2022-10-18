@@ -34,6 +34,7 @@ However, I'm open to solve bugs for modified versions, but I do not support thes
 DFX Tweaker is available in these languages:
 - Spanish
 - English
+
 Since version 1.6, DFX Tweaker has multiple languages. Older releases are only in Spanish.
 
 ## Why DFX Tweaker?
