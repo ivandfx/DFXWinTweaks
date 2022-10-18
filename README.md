@@ -1,6 +1,9 @@
 DFX Tweaker is a small but versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
 Made for Windows 10 and Windows 11 (some options are only supported by Windows 10)*
+**Required:** Windows 10 (all) and Windows 11 (all)
+**Recommended:** Windows 10 1607 or newer for full functionality
+
 
 Since version 1.6, DFX Tweaker has multiple languages. Older releases are only in Spanish.
 
