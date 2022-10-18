@@ -36,7 +36,7 @@ DFX Tweaker is available in these languages:
 - English
 
 ## Why DFX Tweaker?
-Because I needed a small tool to make some changes in Windows, and I came across AikonCWD W10 Script, a small tool that did what I wanted.
+Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
 
 However, the tool needed an internet connection for most of its functions, and I wanted to do something like that, but work without internet right out of the box. So the idea of making this project came up, of course, being as transparent as possible about the existence of Aikon and its fantastic script.
 
