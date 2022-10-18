@@ -2,10 +2,6 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 
 Made for Windows 10 and Windows 11 (some options are only supported by Windows 10)*
 
-**Required:** Windows 10 (all) and Windows 11 (all)
-
-**Recommended:** Windows 10 1607 or newer for full functionality
-
 |Current|Info|-|Coming soon|Info|Status|
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.6|-|**Next version**|Version 1.7|N/A|
@@ -24,6 +20,10 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 **Although it doesn't appear anywhere, you should consider DFX Tweaker as a beta for now, because contain various bugs that will be solved.**
 
 **Since the release of version 1.6, updates will arrive less frequently.**
+
+## Required versions of Windows
+- Required: Windows 10 (all) and Windows 11 (all)
+- Recommended: Windows 10 1607 or newer for full functionality
 
 ## *About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
