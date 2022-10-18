@@ -2,11 +2,7 @@
 ### What is DFX Tweaker?
 DFX Tweaker is a small but versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-Made for Windows 10 and Windows 11 (some options are only supported by Windows 10)
-
-**You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.**
-
-However, I'm open to solve bugs for modified versions, but I do not support these "officially"
+Made for Windows 10 and Windows 11 (some options are only supported by Windows 10)*
 
 Since version 1.6, DFX Tweaker has language options. Older releases are only in Spanish.
 
@@ -29,6 +25,11 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 
 **Since the release of version 1.6, updates will arrive less frequently.**
 
+### *About modified versions
+**You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.**
+
+However, I'm open to solve bugs for modified versions, but I do not support these "officially"
+
 ### Other languages
 DFX Tweaker is available in these languages:
 - Spanish
@@ -45,6 +46,5 @@ To download AikonCWD Script, scroll down a bit further.
 DFX Tweaker is a fork of AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script).
 
 Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) and by the way, do you want to buy him a beer? You can make a donation. :smile:
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />DFX Tweaker is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
