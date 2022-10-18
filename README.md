@@ -14,7 +14,7 @@ Since version 1.6, DFX Tweaker has language options. Older releases are only in 
 **DFX Tweaker 1.6 Main Menu in English - Windows 10 21H2**
 
 ## Online functions and dependencies
-DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue can use your browser.
+DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
 
 ## About updates
 Since DFX Tweaker does not require an Internet connection, updates must be downloaded manually, so check the Releases section from time to time if there is a new version.
