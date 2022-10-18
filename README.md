@@ -22,9 +22,9 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 **Since the release of version 1.6, updates will arrive less frequently.**
 
 ## *Required versions of Windows
-- Required: Windows 10 (all) and Windows 11 (all)
+- Required: Windows 10 (1507 and newer) and Windows 11 (21H2 or newer)
 - Recommended: Windows 10 1607 or newer for full functionality
-- 32-bit and 64-bit
+- 32-bit and 64-bit editions are supported
 
 ## *About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
