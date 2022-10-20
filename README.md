@@ -6,7 +6,7 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.6|-|**Next version**|Version 1.7|Delayed|
 |**Release Date**|October 16, 2022|-|**Estimated Release Date**|N/A|Delayed|
-|**Previous**|Version 1.5 ES|-|**Developing**|1.7|R3|
+|**Previous**|Version 1.5 ES|-|**Developing**|1.7|Inactive|
 
 **Version 1.7 has been delayed indefinitely due to time and institute concerns.**
 
