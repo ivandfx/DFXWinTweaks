@@ -33,6 +33,9 @@ You can modify the script to make it run on older versions of Windows, but there
 
 However, I'm open to solve bugs issued from modified versions, but I don't officially support these.
 
+## Known issues
+Since version 1.6, there is an issue that causes the Windows Update configuration to crash, however, the settings are still applied successfully.
+
 ## Other languages
 DFX Tweaker is available in these languages:
 - Spanish
