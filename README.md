@@ -4,9 +4,9 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 |Current|Info|-|Coming soon|Info|Status|
 |---|---|---|---|---|---|
-|**Latest version**|Version 1.6|-|**Next version**|Version 1.6.1|Active|
+|**Latest version**|Version 1.6|-|**Next version**|N/A|N/A|
 |**Release Date**|October 16, 2022|-|**Estimated Release Date**|N/A|N/A|
-|**Previous**|Version 1.5 ES|-|**Developing**|1.6.1|Active|
+|**Previous**|Version 1.5 ES|-|**Developing**|N/A|N/A|
 
 **You can see the known issues at the bottom of the readme.**
 
