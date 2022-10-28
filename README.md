@@ -21,8 +21,6 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 
 **Although it doesn't appear anywhere, you should consider DFX Tweaker as a beta for now, there are some bugs that will be solved.**
 
-**Since the release of version 1.6, updates will arrive less frequently.**
-
 ## *Required versions of Windows
 - Required: Windows 10 (1507 and newer) and Windows 11 (21H2 or newer)
 - Recommended: Windows 10 1809 or newer for full functionality
