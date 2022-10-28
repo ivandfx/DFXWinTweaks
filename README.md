@@ -34,7 +34,7 @@ You can modify the script to make it run on older versions of Windows, but there
 However, I'm open to solve bugs issued from modified versions, but I don't officially support these.
 
 ## Known issues
-- Enabling Telemetry causes DFX Tweaker to crash - **Working on a fix**
+- Re-enabling Telemetry causes DFX Tweaker to crash - **Working on a fix**
 
 ## Other languages
 DFX Tweaker is available in these languages:
