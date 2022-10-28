@@ -35,6 +35,7 @@ However, I'm open to solve bugs issued from modified versions, but I don't offic
 
 ## Known issues
 - Re-enabling Telemetry causes DFX Tweaker to crash - **Working on a fix**
+- Typing letters instead of numbers leads to an instant crash - **Will be fixed later**
 
 ## Other languages
 DFX Tweaker is available in these languages:
