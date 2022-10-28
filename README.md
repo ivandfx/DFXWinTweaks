@@ -10,8 +10,8 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 **You can see the known issues at the bottom of the readme.**
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZnaU8HvcRowv8gO0dSdCEbO1vkMB1TuRxFJeVVnSuGxbouqOU3bHgIO6Le1OjXMoF9O1mt22ZdACmyat7vk1k3eQyUFGExKkxnBQ4LR3NvPrRmK3hUm0mlA8o9i8nh0fb1SlsQsloGNGmDd7pzYmvd-2IcOQAfX88HXEbZRu3F2_oalR_OsabxgkBYA/s1057/dfxtweaker16.png)
-**DFX Tweaker 1.6 Main Menu (English) - Windows 10 21H2**
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR-l2hzTCTy3g6FOoJFbkdbY1TszvIIDllYpg6uNCSipVjvi2W4N8hjXvn-mUya8kU9MnrzNo8XSHtBAscnW-rukfznMUa48VmsFj56BBoSowpcyF-JYofI5Tfd4yF4yXv7pomR6Wa3I4tHtrEVxlY4A5RczmhVZQ2b5tRWQ8wNP-l4D74exK8tXogg/s1053/Captura%20de%20pantalla%202022-10-28%20224909.png)
+**DFX Tweaker 1.6.3 Main Menu (English) - Windows 10 22H2**
 
 ## Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
