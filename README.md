@@ -39,11 +39,9 @@ However, I'm open to solve bugs issued from modified versions, but I don't offic
 - Typing letters instead of numbers leads to an instant crash - **Will be fixed later**
 
 ## Other languages
-DFX Tweaker is available in these languages:
+Since version 1.6, DFX Tweaker is available in these languages:
 - Spanish
 - English
-
-Since version 1.6, DFX Tweaker has multiple languages. Older releases are only in Spanish.
 
 ## Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
