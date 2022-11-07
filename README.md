@@ -57,7 +57,4 @@ Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**
 
 ## Other 
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />DFX Tweaker is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-
-**2022 ivandfx**
+DFX Tweaker © 08/01/2022 by ivandfz is licensed under CC BY-NC 4.0
