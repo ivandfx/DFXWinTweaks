@@ -12,7 +12,7 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 **You can see the known issues at the bottom of the readme.**
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR-l2hzTCTy3g6FOoJFbkdbY1TszvIIDllYpg6uNCSipVjvi2W4N8hjXvn-mUya8kU9MnrzNo8XSHtBAscnW-rukfznMUa48VmsFj56BBoSowpcyF-JYofI5Tfd4yF4yXv7pomR6Wa3I4tHtrEVxlY4A5RczmhVZQ2b5tRWQ8wNP-l4D74exK8tXogg/s1053/Captura%20de%20pantalla%202022-10-28%20224909.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc-pIC-_N7Ct7rnkg5J17RE18-o0S1qfAgqbQiqLRX_JRdJrP-YSlwl1g-j8UQx4V3PLlFmMh7XHxfzLNVDpdSx_--ZiN9NNRvFxHp0ZrSLty6yh1gWEoVxhlDdy_qTl2oKXZlt8QBDe4L2rBPa9ny5WwI5uHc2ZsiZo7Wq5wRAw2-cuiER-M-ewnwsg/s1016/Captura%20de%20pantalla%202022-11-07%20224619.png)
 **DFX Tweaker 1.6.3 Main Menu (English) - Windows 10 22H2**
 
 ## Online features
