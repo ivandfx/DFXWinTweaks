@@ -4,8 +4,6 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 [This is an example of the behavior of DFX Tweaker on versions prior to Windows 10](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfHR4VmYvOcgXgEbdUaQl3uGqOhI83cFQQH61U2lnJraUHKYOBPB13qd-dvUP6j6iTssftkNsJNTvHEEJEHwqJJUGEGk2PzrderIeMZRUcoaAays4Cgk4PYbjxilgw_sNxjndSItiLHAVJN5GVwL5th5ab2VMn3A-22Ul1TwTkKBbhTkuH3tTN2kWmVg/s677/dfxtweaker7.png)
 
-**Due to personal issues, DFX Tweaker development has been temporarily stopped.**
-
 |Current|Info|-|Coming soon|Info|Status|
 |---|---|---|---|---|---|
 |**Latest version**|Version 1.7.2|-|**Next version**|1.8.0|N/A|
