@@ -21,6 +21,7 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 
 **Although it doesn't appear anywhere, you should consider DFX Tweaker as a beta for now, there are some bugs that will be solved.**
 
+
 ## *Required versions of Windows
 - Required: Windows 10 (1507 or newer) and Windows 11 (21H2 or newer)
 - 32-bit and 64-bit editions are supported
@@ -48,7 +49,7 @@ To download AikonCWD Script, scroll down a bit further.
 ## AikonCWD W10 Script
 DFX Tweaker is a fork of AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
 
-Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) and by the way, do you want to buy him a beer?
+Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker is based off.
 
 ## License
 
