@@ -34,7 +34,7 @@ You can modify the script to make it run on older versions of Windows, but there
 However, I'm open to solve bugs issued from modified versions, but I don't officially support these.
 
 ## Known issues
-- Typing letters instead of numbers leads to an instant crash - **Will be fixed later**
+- N/A
 
 ## Other languages
 DFX Tweaker is available in these languages:
