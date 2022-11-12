@@ -7,7 +7,7 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 |**Latest Release**|1.7.2|**Next Release**|1.8.0|
 |**Release Date**|November 7, 2022|**Estimated Release Date**|N/A|
 
-See more info about Beta versions ]**here**](https://github.com/ivandfx/DFXTweaker/blob/main/BETAREADME.md)
+See more info about Beta versions [**here**](https://github.com/ivandfx/DFXTweaker/blob/main/BETAREADME.md)
 
 **You can see the known issues down below.**
 
