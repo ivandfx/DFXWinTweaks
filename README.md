@@ -4,9 +4,9 @@ Made for Windows 10 and Windows 11 (some options are only supported by Windows 1
 
 |Current|Info|Coming soon|Info|Status|
 |---|---|---|---|---|
-|**Latest Release**|1.7.2|**Next Release**|1.8.0|Confirmed|
+|**Latest Release**|1.7.2|**Next Release**|1.8.0|Development|
 |**Release Date**|November 7, 2022|**Estimated Release Date**|N/A|N/A|
-|**Latest Beta**|1.8.0 Beta 2|**On Development**|1.8.0|Active|
+|**Latest Beta**|1.8.0 Beta 3|**Release date**|November 12, 2022|
 
 **You can see the known issues down below.**
 
