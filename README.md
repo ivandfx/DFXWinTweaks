@@ -1,7 +1,7 @@
 # DFX Tweaker
 DFX Tweaker is a small but versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-[Supported versions of Windows](https://github.com/ivandfx/DFXTweaker#required-versions-of-windows)
+[Supported versions of Windows](https://github.com/ivandfx/DFXTweaker#system-requirements)
 
 WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and disable some services, but anyway, be careful.
 
@@ -27,7 +27,7 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 - Beta versions of DFX Tweaker are now released on [**Releases**](https://github.com/ivandfx/DFXTweaker/releases). You can also check [**Tags**](https://github.com/ivandfx/DFXTweaker/tags) to search more specifically.
 
 
-## *Required versions of Windows
+## System Requirements
 - Required: Windows 10 (1507 or newer) and Windows 11 (21H2 or newer)
 - Recommended: Windows 10 1809 or later
 - 32-bit and 64-bit editions are supported
