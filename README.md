@@ -14,8 +14,8 @@ See more info about Beta versions [**here**](https://github.com/ivandfx/DFXTweak
 
 **You can see the known issues down below.**
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc-pIC-_N7Ct7rnkg5J17RE18-o0S1qfAgqbQiqLRX_JRdJrP-YSlwl1g-j8UQx4V3PLlFmMh7XHxfzLNVDpdSx_--ZiN9NNRvFxHp0ZrSLty6yh1gWEoVxhlDdy_qTl2oKXZlt8QBDe4L2rBPa9ny5WwI5uHc2ZsiZo7Wq5wRAw2-cuiER-M-ewnwsg/s1016/Captura%20de%20pantalla%202022-11-07%20224619.png)
-**DFX Tweaker 1.7.2 Main Menu (English) - Windows 10 22H2**
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4qu-QxIaNEFWvk21KE8Ysaw1cgGMEYkQZJvKH41SHJPk1E9KIgeeShPdfWt9XBvM62MURU8RnVeDTk-1dpYkrESi0WtJvEepqfdOKqEy_O637MrT4N_3w0BIFQb3Sl21Xah-hsZL9JpLkZCL07fpzXoEidAZ6d_BS9608cC1CK2lcIfJxMxrj-lQbw/s1017/Captura%20de%20pantalla%202022-11-14%20154443.png)
+**DFX Tweaker 1.8.0 English Menu - Windows 10 22H2**
 
 ## Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
