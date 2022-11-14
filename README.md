@@ -7,7 +7,7 @@ WARNING: I do NOT take responsibility for what may happen to your system! All op
 
 |Latest|Info|Coming soon|Info|
 |---|---|---|---|
-|**Latest Release**|1.8.0|**Next Release**|N/A|
+|**Latest Release**|1.8.0|**On Development**|1.8.1|
 |**Release Date**|November 13, 2022|**Estimated Release Date**|N/A|
 
 See more info about Beta versions [**here**](https://github.com/ivandfx/DFXTweaker/blob/main/BETAREADME.md)
