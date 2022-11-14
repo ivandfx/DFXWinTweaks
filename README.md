@@ -14,7 +14,7 @@ See more info about Beta versions [**here**](https://github.com/ivandfx/DFXTweak
 
 **You can see the known issues down below.**
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4qu-QxIaNEFWvk21KE8Ysaw1cgGMEYkQZJvKH41SHJPk1E9KIgeeShPdfWt9XBvM62MURU8RnVeDTk-1dpYkrESi0WtJvEepqfdOKqEy_O637MrT4N_3w0BIFQb3Sl21Xah-hsZL9JpLkZCL07fpzXoEidAZ6d_BS9608cC1CK2lcIfJxMxrj-lQbw/s1017/Captura%20de%20pantalla%202022-11-14%20154443.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvWaZY-_6MUWIHfF_xZccM86lFj4AvH_cD0LW1IagRRB8gZc9A6qulYk2RGdhECOMX28Ud-feyNBNntfgnmE5R45GKQ7nfolnBz0eltR6MfrtjwAF9yTjf7ksTY5Pc2UJLnDh_HYI1_PON_Mhi197WXELTFWfJmzfvQ8qtuRBiKVDPZDaVhjcKYGYrUw/s1014/Captura%20de%20pantalla%202022-11-14%20154443.png)
 **DFX Tweaker 1.8.0 English Menu - Windows 10 22H2**
 
 ## Online features
