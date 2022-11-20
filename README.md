@@ -58,7 +58,7 @@ DFX Tweaker is a fork of AikonCWD W10 Script . Download it [**here**](https://gi
 Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker is based off.
 
 ## Source code
-There is no source code, you can just download any version of DFX Tweaker and edit it easily. However, you have to follow the License Terms below.
+There is no source code, you can just download any version of DFX Tweaker and edit it easily. However, you have to follow the License below.
 
 ## License
 DFX Tweaker is licensed under a GPL 3.0 license.
