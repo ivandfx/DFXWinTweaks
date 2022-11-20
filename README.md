@@ -32,7 +32,7 @@ Since DFX Tweaker does not require an Internet connection, updates must be downl
 - Recommended: Windows 10 1809 or later
 - 32-bit and 64-bit editions are supported
 
-## *About modified versions
+## About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
 
 However, I'm open to solve bugs issued from modified versions, but I don't officially support these.
