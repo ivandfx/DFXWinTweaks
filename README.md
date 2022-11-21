@@ -6,6 +6,8 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and disable some services, but anyway, be careful.
 
 **Usually there is a new release every 4 or 5 days**
+[**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.9.0/DFXTweaker1.9.0.vbs)
+
 |Latest|Info|Coming soon|Info|
 |---|---|---|---|
 |**Latest Release**|1.9.0|**On Development**|1.9.1|
