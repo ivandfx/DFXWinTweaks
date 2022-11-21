@@ -8,7 +8,7 @@ WARNING: I do NOT take responsibility for what may happen to your system! All op
 **Usually there is a new release every 4 or 5 days**
 |Latest|Info|Coming soon|Info|
 |---|---|---|---|
-|**Latest Release**|1.9.0|**On Development**|N/A|
+|**Latest Release**|1.9.0|**On Development**|1.9.1|
 |**Release Date**|November 20, 2022|**Estimated Release Date**|N/A|
 
 See more info about Beta versions [**here**](https://github.com/ivandfx/DFXTweaker/blob/main/BETAREADME.md)
