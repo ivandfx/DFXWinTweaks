@@ -7,7 +7,7 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 |Latest|Info|Coming soon|Info|
 |---|---|---|---|
 |**Latest Release**|1.9.0|**On Development**|1.9.1|
-|**Release Date**|November 20, 2022|**Estimated Release Date**|November 23, 2022|
+|**Release Date**|November 20, 2022|**Estimated Release Date**|November 24, 2022|
 
 **You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)**
 
