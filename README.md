@@ -2,12 +2,12 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 
 [Supported versions of Windows](https://github.com/ivandfx/DFXTweaker#system-requirements)
 
-**There is usually a new release every 4 or 5 days. -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.9.0/DFXTweaker1.9.0.vbs)
+**There is usually a new release every week. -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.9.0/DFXTweaker1.9.0.vbs)
 
 |Latest|Info|Coming soon|Info|
 |---|---|---|---|
-|**Latest Release**|1.9.0|**On Development**|1.9.1|
-|**Release Date**|November 20, 2022|**Estimated Release Date**|November 24, 2022|
+|**Latest Release**|1.9.1|**On Development**|N/A|
+|**Release Date**|November 22, 2022|**Estimated Release Date**|N/A|
 
 **You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)**
 
