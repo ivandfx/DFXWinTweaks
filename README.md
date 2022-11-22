@@ -11,7 +11,7 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 
 You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rCCecBvz-pYk1KfrXoIJZ2ApI8WjkqqI30CAt2AsgBu1OhZ_58-CQi1kMf8M8VHRGz6uXtKZ1HOkybioVaiIE0MWYpaYv7xkLRc0kh5EYu0ixMUzncGXAPgWpXcmWR0Mci9cCpQUVRAUhQpDjE8zbNM5u6zBcMpLXLA9jSTMJOuvUgIPpA9RB-DMNA/s979/Sin%20t%C3%ADtulo.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGZkcTXnJ2BCv52u7GhRhGxlkNZ_G65jQ1lRBq-TpAF9oQfzMtcuNkh167aYyHWtnS53ShkOvOtDs_D7P73xg4q4URXAQMhGxXSinl42749-QG3Fx5xfWinSli5pVhPSW_UzLIMYsNfNqc8eC-CgreXV4EpQ0-pTxeR54kjHEwLJg7Ieb11siLHi8ZQ/s979/u54ygrehgieruwhggo.png)
 **DFX Tweaker 1.8.1 English Menu - Windows 10 22H2**
 
 ## Online features
