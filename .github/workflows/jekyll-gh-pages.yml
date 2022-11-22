@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: DFX Tweaker Web Update (ivandfx.github.io/DFXTweaker)
+name: DFX Tweaker Web Update
 
 on:
   # Runs on pushes targeting the default branch
