@@ -9,7 +9,7 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 |**Latest Release**|1.9.1|**On Development**|N/A|
 |**Release Date**|November 22, 2022|**Estimated Release Date**|N/A|
 
-**You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)
+You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rCCecBvz-pYk1KfrXoIJZ2ApI8WjkqqI30CAt2AsgBu1OhZ_58-CQi1kMf8M8VHRGz6uXtKZ1HOkybioVaiIE0MWYpaYv7xkLRc0kh5EYu0ixMUzncGXAPgWpXcmWR0Mci9cCpQUVRAUhQpDjE8zbNM5u6zBcMpLXLA9jSTMJOuvUgIPpA9RB-DMNA/s979/Sin%20t%C3%ADtulo.png)
 **DFX Tweaker 1.8.1 English Menu - Windows 10 22H2**
