@@ -59,6 +59,6 @@ Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**
 There is no source code, you can just download any version of DFX Tweaker and edit it easily. However, you have to follow the License below.
 
 ## License
-DFX Tweaker is licensed under a GPL-3.0 license.
+DFX Tweaker is licensed under a GNU General Public License v3.0.
 
 **As of November 14, 2022, all DFX Tweaker releases have been patched with the proper license**
