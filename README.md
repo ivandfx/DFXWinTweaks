@@ -41,7 +41,7 @@ However, I'm open to solve bugs issued from modified versions, but I don't offic
 DFX Tweaker is available in these languages:
 - Spanish - Since 1.0
 - English - Since 1.6
-- Portuguese - Development
+- Portuguese - On Development
 
 ## Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
