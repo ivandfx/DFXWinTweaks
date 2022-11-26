@@ -27,7 +27,7 @@ Since DFX Tweaker does not require an internet connection, updates must be downl
 WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and/or disable some services, but anyway, be careful.
 
 ## System Requirements
-- Supported: Windows 7 , Windows 8.x, Windows 10 and Windows 11
+- Supported: Windows 7, Windows 8.x, Windows 10 and Windows 11
 - Recommended: Windows 10 1809 or later
 - 32-bit and 64-bit editions are supported
 - **Windows 7 and Windows 8.x use a minimal menu.**
