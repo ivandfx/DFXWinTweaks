@@ -1,6 +1,7 @@
 DFX Tweaker is a small but versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
 [New DFX Tweaker Website (Beta)](https://ivandfx.github.io/DFXTweaker)
+
 [Supported versions of Windows](https://github.com/ivandfx/DFXTweaker#system-requirements)
 
 **There is usually a new release (or more) every week -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.10.2/DFXTweaker1.10.2.vbs)
@@ -57,7 +58,7 @@ DFX Tweaker is a fork of AikonCWD W10 Script . Download it [**here**](https://gi
 Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker is based off.
 
 ## Source code
-There is no source code, you can just download any version of DFX Tweaker and edit it easily. However, you have to follow the License below.
+Altough DFX Tweakers is open source, there is no source code, you can just download any version of DFX Tweaker and edit it easily. However, you have to follow the License below.
 
 ## License
 DFX Tweaker is licensed under a GNU General Public License v3.0.
