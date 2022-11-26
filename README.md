@@ -1,5 +1,6 @@
 DFX Tweaker is a small but versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
+[New DFX Tweaker Website (Beta)](https://ivandfx.github.io/DFXTweaker)
 [Supported versions of Windows](https://github.com/ivandfx/DFXTweaker#system-requirements)
 
 **There is usually a new release (or more) every week -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.10.2/DFXTweaker1.10.2.vbs)
