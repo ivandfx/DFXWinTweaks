@@ -6,12 +6,12 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 
 [System Requirements](https://github.com/ivandfx/DFXTweaker#system-requirements)
 
-**There is usually a new release (or more) every week -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.10.3/DFXTweaker1.10.3.vbs)
+**There is usually a new release (or more) every week -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.11.0/DFXTweaker1.11.0.vbs)
 
 |Latest|Info|Next|Info|
 |---|---|---|---|
-|**Latest Release**|1.10.3|**On Development**|N/A|
-|**Release Date**|November 26, 2022|**Status**|N/A|
+|**Latest Release**|1.11.0|**On Development**|N/A|
+|**Released**|November 26, 2022|**Status**|N/A|
 
 You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)
 
