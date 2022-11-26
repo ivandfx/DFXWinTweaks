@@ -14,7 +14,7 @@ DFX Tweaker is a small but versatile tool designed to get system information and
 You can see the known issues [**here**](https://github.com/ivandfx/DFXTweaker#known-issues)
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/1.10.3language.png)
-**DFX Tweaker 1.10.3 Language Menu - Windows 10 22H2**
+**DFX Tweaker 1.10.3 Start Menu - Windows 10 22H2**
 
 ## Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
