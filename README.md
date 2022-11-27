@@ -30,7 +30,7 @@ WARNING: I do NOT take responsibility for what may happen to your system! All op
 - Supported: Windows 7, Windows 8.x, Windows 10 and Windows 11
 - Recommended: Windows 10 1809 or later
 - 32-bit and 64-bit editions are supported
-- **Windows 7 and Windows 8.x use a minimal menu.**
+- **Windows 7 and Windows 8.x use an alternate menu.**
 
 ## About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
