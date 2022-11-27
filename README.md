@@ -45,7 +45,7 @@ However, I'm open to solve bugs issued from modified versions, but I don't offic
 ## Other languages
 DFX Tweaker is available in these languages:
 - Spanish - Since 1.0
-- English - Since 1.6
+- English - Since 1.6.0
 - Portuguese - Planned
 - French - Planned
 
