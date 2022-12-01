@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxilogo128.png)
 
-[New DFX Tweaker Web](https://ivandfx.github.io/DFXTweaker)
+For every new stuff, check [DFX Tweaker Web](https://ivandfx.github.io/DFXTweaker)
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
