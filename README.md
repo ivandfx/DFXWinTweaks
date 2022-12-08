@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxilogo128.png)
 
-For every new stuff, check [DFX Tweaker Web](https://ivandfx.github.io/DFXTweaker)
+For a better view of the project, check [DFX Tweaker Main Web](https://ivandfx.github.io/DFXTweaker)
 
 If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](https://ivandfx.github.io/DFXTweaker/beta/index.html)
 
