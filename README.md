@@ -11,7 +11,7 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/1.11.1en.png)
 **DFX Tweaker 1.11.1 Start Menu - Windows 10 22H2**
 
-## Online features
+## 🐇 Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
 
 ## 💻 System Requirements
@@ -45,7 +45,7 @@ However, the tool needed an internet connection for most of its functions, and I
 
 To download AikonCWD Script, scroll down a bit further.
 
-## AikonCWD W10 Script
+## 🧭 AikonCWD W10 Script
 DFX Tweaker is a fork of AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
 
 Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker is based off.
