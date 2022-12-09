@@ -11,7 +11,7 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 **There is usually a new release (or more) every week -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.11.1/DFXTweaker1.11.1.vbs)
 
 |Current|Release|Status|
-|---|---|---|---|---|---|
+|---|---|---|
 |**Latest version**|Version 1.11.1|Stable|
 |**Development**|Secret|Dev|
 
