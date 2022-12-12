@@ -6,9 +6,7 @@ If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](h
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-[System Requirements](https://github.com/ivandfx/DFXTweaker#-system-requirements)
-
-**There is usually a new release (or more) every week -** [**Download latest release**](https://github.com/ivandfx/DFXTweaker/releases/download/1.11.1/DFXTweaker1.11.1.vbs)
+**DFX Tweaker VBS Edition has been discontinued, see [The Future of the Project](https://ivandfx.github.io/DFXTweaker/newdfx.html)
 
 |Current|Release|Status|Released|
 |---|---|---|---|
@@ -41,9 +39,6 @@ DFX Tweaker can be a little buggy sometimes, there are some bugs that will be so
 DFX Tweaker is available in these languages:
 - Spanish (es_ES) - Since 1.0
 - English (en_US) - Since 1.6.0
-- Catalan (ca_ES) - In Development
-- Portuguese (pt_PT) - Planned
-- French (fr_FR) - Planned
 
 ## 🧀 Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
