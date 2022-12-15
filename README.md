@@ -6,7 +6,7 @@ If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](h
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-**DFX Tweaker VBS Edition has been discontinued, see [The Future of the Project](https://ivandfx.github.io/DFXTweaker/newdfx.html)**
+**DFX Tweaker VBS is now on ESR Mode (Extended Support Release), see [The Future of the Project](https://ivandfx.github.io/DFXTweaker/newdfx.html)**
 
 |Current|Release|Status|Released|
 |---|---|---|---|
