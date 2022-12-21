@@ -6,13 +6,12 @@ If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](h
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-**DFX Tweaker VBS is now on ESR Mode (Extended Support Release), see [The Future of the Project](https://ivandfx.github.io/DFXTweaker/newdfx.html)**
+DFX Tweaker 2.0 has been cancelled. Main development will return soon. 
 
 |Current|Release|Status|Released|
 |---|---|---|---|
 |**Latest version**|Version 1.11.2|ESR|December 15, 2022
 |**Development**|N/A|N/A|N/A|
-|**Development_Next**|Secret|Dev|Somewhere in 2023|
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxesr1.png)
 **DFX Tweaker 1.11.2 ESR Start Menu - Windows 11 22H2**
