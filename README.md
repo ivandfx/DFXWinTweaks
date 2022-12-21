@@ -2,8 +2,6 @@
 
 For a better view of the project, check [DFX Tweaker Main Web](https://ivandfx.github.io/DFXTweaker)
 
-If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](https://ivandfx.github.io/DFXTweaker/beta/index.html)
-
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
 DFX Tweaker .NET has been cancelled. Main development will return soon. Sorry for the confusion.
@@ -17,6 +15,8 @@ DFX Tweaker .NET has been cancelled. Main development will return soon. Sorry fo
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxesr1.png)
 **DFX Tweaker 1.11.2 ESR Start Menu - Windows 11 22H2**
+
+If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](https://ivandfx.github.io/DFXTweaker/beta/index.html)
 
 ## 🐇 Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
