@@ -6,12 +6,10 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 
 DFX Tweaker .NET has been cancelled. Main development will return soon. Sorry for the confusion.
 
-**Version 1.12 has been skipped to avoid confusion**
-
 |Current|Release|Status|Released|
 |---|---|---|---|
 |**Latest version**|Version 1.11.2|ESR|December 15, 2022
-|**Development**|1.13|N/A|N/A|
+|**Development**|1.12.0|N/A|N/A|
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxesr1.png)
 **DFX Tweaker 1.11.2 ESR Start Menu - Windows 11 22H2**
