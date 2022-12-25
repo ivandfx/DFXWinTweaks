@@ -6,8 +6,8 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 
 |Current|Release|Status|Released|
 |---|---|---|---|
-|**Latest version**|Version 1.11.2|ESR|December 15, 2022
-|**Development**|1.12.0|N/A|N/A|
+|**Latest version**|Version 1.11.2ESR|Released|December 15, 2022
+|**Development**|1.12.0|On the works|N/A|
 
 <p>
 
