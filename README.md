@@ -4,8 +4,6 @@ For a better view of the project, check [DFX Tweaker Main Web](https://ivandfx.g
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-DFX Tweaker .NET has been cancelled. Main development will return soon. Sorry for the confusion.
-
 |Current|Release|Status|Released|
 |---|---|---|---|
 |**Latest version**|Version 1.11.2|ESR|December 15, 2022
