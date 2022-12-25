@@ -9,6 +9,8 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 |**Latest version**|Version 1.11.2|ESR|December 15, 2022
 |**Development**|1.12.0|N/A|N/A|
 
+<p>
+
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxesr1.png)
 **DFX Tweaker 1.11.2 ESR Start Menu - Windows 11 22H2**
 
