@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxilogo128.png)
+![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxlogosegoe.png)
 
 For a better view of the project, check [DFX Tweaker Main Web](https://ivandfx.github.io/DFXTweaker)
 
