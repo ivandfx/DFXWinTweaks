@@ -14,6 +14,7 @@ DFX Tweaker 1.12.0 has been cancelled again. The development will start from scr
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxesr1.png)
 **DFX Tweaker 1.11.2 ESR Start Menu - Windows 11 22H2**
 
+**If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](https://ivandfx.github.io/DFXTweaker/beta/index.html)
 
 ## 🐇 Online features
