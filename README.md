@@ -41,6 +41,8 @@ DFX Tweaker is available in these languages:
 - Spanish (es_ES) - Since 1.0
 - English (en_US) - Since 1.6.0
 
+I have no plans to add new languages by myself.
+
 ## 🧀 Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
 
