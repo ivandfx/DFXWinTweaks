@@ -9,7 +9,7 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 |**Latest version**|Version 1.11.2ESR|Released|December 15, 2022
 |**Development**|2.0|Development|No|
 
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxesr1.png)
+![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfx2.png)
 **DFX Tweaker 1.11.2 ESR Start Menu - Windows 11 22H2**
 
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
