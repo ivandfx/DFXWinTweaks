@@ -7,7 +7,7 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 |Current|Release|Status|Released|
 |---|---|---|---|
 |**Latest version**|2.0|Released|February 11, 2023
-|**Development**|2.0.1|N/A|N/A|
+|**Development**|2.0.1|Development|No|
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxstart2.0.png)
 **DFX Tweaker 2.0 Standard - Start Menu**
