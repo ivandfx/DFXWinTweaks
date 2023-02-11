@@ -20,8 +20,8 @@ If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](h
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
 
 ## 💻 System Requirements
-- Supported: Windows 7, Windows 8, Windows 8.1, Windows 10 and Windows 11
-- 64 or 32 bit, it doesn't matter
+Supported: Windows 7, Windows 8.x, Windows 10 & Windows 11 (32/64bit)
+DFX Tweaker will remove support for Windows 8.x and Windows 7 in a future release in late 2023.
 
 **Since November 26, 2022, Windows 7 and Windows 8.x are officially supported**
 
@@ -35,12 +35,12 @@ DFX Tweaker can be a little buggy sometimes, there are some bugs that will be so
 
 **WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and/or disable some services, but anyway, be careful.**
 
-## 🔆 Other languages
+## 🔆 Language availability
 DFX Tweaker is available in these languages:
-- Spanish (es_ES) - Since 1.0
-- English (en_US) - Since 1.6.0
-
-I have no plans to add new languages by myself.
+English (Standard Download)
+**Other languages (Slow Release Channel)**
+Spanish / Español
+Catalan / Català
 
 ## 🧀 Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
@@ -50,7 +50,7 @@ However, the tool needed an internet connection for most of its functions, and I
 To download AikonCWD Script, scroll down a bit further.
 
 ## 🧭 AikonCWD W10 Script
-DFX Tweaker is a fork of AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
+All releases up to 1.11.2 ESR were based off AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
 
 Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker is based off.
 
