@@ -6,11 +6,11 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 
 |Current|Release|Status|Released|
 |---|---|---|---|
-|**Latest version**|Version 1.11.2ESR|Released|December 15, 2022
-|**Development**|2.0|Development|No|
+|**Latest version**|2.0|Released|February 11, 2023
+|**Development**|2.0.1|N/A|N/A|
 
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfx2.png)
-**(Development) DFX Tweaker 2.0, COMING SOON...**
+![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxstart2.0.png)
+**DFX Tweaker 2.0 Standard - Start Menu**
 
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 
@@ -22,8 +22,6 @@ DFX Tweaker does not require an internet connection, however, some features like
 ## 💻 System Requirements
 Supported: Windows 7, Windows 8.x, Windows 10 & Windows 11 (32/64bit)
 DFX Tweaker will remove support for Windows 8.x and Windows 7 in a future release in late 2023.
-
-**Since November 26, 2022, Windows 7 and Windows 8.x are officially supported**
 
 ## 💱 About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
