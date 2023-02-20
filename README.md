@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/dfxilogo128.png)
 
-**This README file is now outdated and will be deprecated so please check the [DFX Tweaker Website](https://ivandfx.github.io/DFXTweaker) for any news**
+**This README file is outdated and will be deprecated so, please check the [DFX Tweaker Website](https://ivandfx.github.io/DFXTweaker) for any news**
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
@@ -50,7 +50,7 @@ To download AikonCWD Script, scroll down a bit further.
 ## 🧭 AikonCWD W10 Script
 All releases up to 1.11.2 ESR were based off AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
 
-Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker is based off.
+Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX Tweaker was based off.
 
 ## ⛲ Source code
 Altough DFX Tweaker is Open Source, there is no source code (sort of), you can just download any version of DFX Tweaker and edit it easily. However, you have to follow the GPL 3.0 license.
