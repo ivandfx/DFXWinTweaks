@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/dfxilogo128.png)
 
-**This README file is outdated and will be deprecated so, please check the [DFX Tweaker Website](https://ivandfx.github.io/DFXTweaker) for any news**
+**This README file is outdated and will be deprecated so please check the [DFX Tweaker Website](https://ivandfx.github.io/DFXTweaker) for any news**
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
