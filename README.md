@@ -6,14 +6,13 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 
-If you want the latest and buggiest features, check [DFX Tweaker Beta Channel](https://ivandfx.github.io/DFXTweaker/beta/index.html)
+If you want the latest and buggiest features, download [DFX Tweaker Canary](https://ivandfx.github.io/DFXTweaker/downloads)
 
 ## 🐇 Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
 
 ## 💻 System Requirements
 Supported: Windows 7, Windows 8.x, Windows 10 & Windows 11 (32/64bit)
-DFX Tweaker will remove support for Windows 8.x and Windows 7 in a future release in late 2023.
 
 ## 💱 About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
@@ -26,11 +25,7 @@ DFX Tweaker can be a little buggy sometimes, there are some bugs that will be so
 **WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and/or disable some services, but anyway, be careful.**
 
 ## 🔆 Language availability
-DFX Tweaker is available in these languages:
-English (Standard Download)
-**Other languages (Slow Release Channel)**
-Spanish / Español
-Catalan / Català
+Since release 2.0, DFX Tweaker is onyl available in English.
 
 ## 🧀 Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
