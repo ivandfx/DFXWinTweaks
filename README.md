@@ -1,8 +1,6 @@
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/dfxilogo128.png)
+![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/github_banner.png)
 
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
-
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/github_banner.png)
 
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 
