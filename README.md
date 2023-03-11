@@ -1,16 +1,8 @@
 ![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/dfxilogo128.png)
 
-**This README file is outdated and will be deprecated so please check the [DFX Tweaker Website](https://ivandfx.github.io/DFXTweaker) for any news**
-
 DFX Tweaker is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
-|Current|Release|Status|Released|
-|---|---|---|---|
-|**Latest version**|2.0|Released|February 11, 2023
-|**Development**|2.0.2|Development|No|
-
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/images/dfxstart2.0.png)
-**DFX Tweaker 2.0 Standard - Start Menu**
+![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/dfxtweakerweb/icons/bg.png)
 
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 
