@@ -4,7 +4,7 @@ DFX Tweaker is a small and versatile tool designed to get system information and
 
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 
-If you want the latest and buggiest features, download [DFX Tweaker Canary](https://ivandfx.github.io/DFXTweaker/downloads)
+If you want the latest and buggiest features, download [DFX Tweaker Canary](https://ivandfx.github.io/DFXTweaker/canary)
 
 ## 🐇 Online features
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
