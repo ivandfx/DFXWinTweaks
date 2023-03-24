@@ -23,7 +23,7 @@ DFX Tweaker can be a little buggy sometimes, there are some bugs that will be so
 **WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and/or disable some services, but anyway, be careful.**
 
 ## 🔆 Language availability
-Since release 2.0, DFX Tweaker is onyl available in English.
+Since release 2.0, DFX Tweaker is only available in English.
 
 ## 🧀 Why DFX Tweaker?
 Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
