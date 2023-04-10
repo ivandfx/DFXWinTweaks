@@ -10,7 +10,10 @@ If you want the latest and buggiest features, download [DFX Tweaker Canary](http
 DFX Tweaker does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
 
 ## 💻 System Requirements
-Supported: Windows 7, Windows 8.x, Windows 10 & Windows 11 (32/64bit)
+Windows 10, Windows 11.
+
+Supported through NT6 Edition (Discontinued)
+Windows 7, Windows 8 and Windows 8.1.
 
 ## 💱 About modified versions
 You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
