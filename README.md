@@ -12,9 +12,7 @@ DFX Tweaker does not require an internet connection, however, some features like
 ## 💻 System Requirements
 Windows 10, Windows 11.
 
-
-Supported through NT6 Edition (Discontinued)
-
+# Supported through NT6 Edition
 Windows 7, Windows 8 and Windows 8.1.
 
 ## 💱 About modified versions
