@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ivandfx/DFXTweaker/main/images/github_banner.png)
+![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
 DFX WinTweaks is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
 
