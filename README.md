@@ -44,6 +44,6 @@ Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**
 Altough DFX WinTweaks is Open Source, there is no source code (sort of), you can just download any version of DFX WinTweaks and edit it easily. However, you have to follow the GPL 3.0 license.
 
 ## 👨‍🎓 License
-DFX Tweaker is licensed under a GNU General Public License v3.0.
+DFX WinTweaks is licensed under a GNU General Public License v3.0.
 
 **As of November 14, 2022, all DFX WinTweaks releases have been patched with the proper license**
