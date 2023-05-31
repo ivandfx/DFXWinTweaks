@@ -5,7 +5,7 @@ DFX WinTweaks is a small and versatile tool designed to get system information a
 **If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
 
 ## 🐇 Online features
-DFX WinTweaks does not require an internet connection, however, some features like updating the script or posting an issue on GitHub can use your browser.
+DFX WinTweaks does not require an internet connection at all (with the exception of browser-based options like Reporting an issue or go to DFX WinTweaks Website/Github.
 
 ## 💻 System Requirements
 Windows 10, Windows 11.
