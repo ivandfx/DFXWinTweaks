@@ -8,10 +8,7 @@ DFX WinTweaks is a small and versatile tool designed to get system information a
 DFX WinTweaks does not require an internet connection at all (with the exception of browser-based options like Reporting an issue or go to DFX WinTweaks Website/Github.
 
 ## 💻 System Requirements
-Windows 10, Windows 11.
-
-### Supported through NT6 Edition*
-Windows 7, Windows 8 and Windows 8.1.
+Windows 7 and later.
 
 Windows Vista, XP and older are not supported.
 
