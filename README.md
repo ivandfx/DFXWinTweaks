@@ -1,46 +1,42 @@
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
-DFX WinTweaks is a small and versatile tool designed to get system information and tweak your OS beyond what Microsoft allows you. As development progresses, new features will be added.
+DFX WinTweaks is a simple tool that helps you learn about your computer system and make adjustments to your Windows operating system that go beyond what Microsoft typically allows. It's a work in progress, so new features will be added over time.
 
-**If Microsoft Defender or SmartScreen flags the script as malware or virus, ignore it and try to run it again. Probably this has something to do with a command that disables Microsoft Defender, that's why disabling Microsoft Defender requires to reboot to Windows Safe Mode.**
+**If your security software flags DFX WinTweaks as potentially harmful, you can make an exception for it and trying to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
 
 ## 🐇 Online features
-DFX WinTweaks does not require an internet connection at all (with the exception of browser-based options like Reporting an issue or go to DFX WinTweaks Website/Github.
+DFX WinTweaks doesn't need an internet connection to function, except for some online options like reporting issues or visiting the DFX WinTweaks website on GitHub.
 
 ## 💻 System Requirements
-Windows 7 and later.
+DFX WinTweaks works on Windows 7 and newer versions. It doesn't support Windows Vista, XP, or older systems.
 
-Windows Vista, XP and older are not supported.
+## 💱 Modified Versions
+You can modify the tool to make it work on older Windows versions, but there's no guarantee that everything will work as intended.
 
-## 💱 About modified versions
-You can modify the script to make it run on older versions of Windows, but there's no guarantee that everything will work as intended.
+## ❌ Known Issues
+- None mentioned.
 
-## ❌ Known issues
-- N/A
+Keep in mind that DFX WinTweaks might have occasional bugs and problems, i'm actively working to fix everything.
 
-DFX WinTweaks can be a little buggy sometimes, there are some bugs that will be solved.
+**WARNING: I'm not responsible for any issues that might happen on your system. The changes made by DFX WinTweaks are generally minor registry tweaks or service disabling, but use it cautiously.**
 
-**WARNING: I do NOT take responsibility for what may happen to your system! All options and features just change some minor registry tweaks and/or disable some services, but anyway, be careful.**
-
-## 🔆 Language availability
-Since release 2.0, DFX WinTweaks is only available in English.
+## 🔆 Language Availability
+Starting from release 2.0, DFX WinTweaks is only available in English.
 
 ## 🧀 Why DFX WinTweaks?
-Because I needed a tool to disable Windows Update and Defender, and I came across AikonCWD W10 Script, a small tool that did what I wanted with some other options.
+I created DFX WinTweaks because I needed a way to disable Windows Update and Defender. I found AikonCWD W10 Script, a similar tool with more options, but it required an internet connection for most features. I wanted something similar but functional offline. That's why I started this project, and I want to give credit to AikonCWD and their script.
 
-However, the tool needed an internet connection for most of its functions, and I wanted to do something like that, but work without internet right out of the box. So the idea of making this project came up, of course, being as transparent as possible about the existence of Aikon and its fantastic script.
-
-To download AikonCWD Script, scroll down a bit further.
+If you want the AikonCWD Script, you can find it by scrolling down.
 
 ## 🧭 AikonCWD W10 Script
-All releases up to 1.11.2 ESR were based off AikonCWD W10 Script . Download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
+All releases up to version 1.11.2 ESR were based on AikonCWD W10 Script. You can download it [**here**](https://github.com/aikoncwd/win10script) - **(Spanish)**
 
-Did you like the script? Well, don't congratulate me, congratulate [**AikonCWD**](https://github.com/aikoncwd) who created the script that DFX WinTweaks was based off.
+If you like DFX WinTweaks, credit goes to [**AikonCWD**](https://github.com/aikoncwd) for creating the script that started everything.
 
-## ⛲ Source code
-Altough DFX WinTweaks is Open Source, there is no source code (sort of), you can just download any version of DFX WinTweaks and edit it easily. However, you have to follow the GPL 3.0 license.
+## ⛲ Source Code
+While DFX WinTweaks is Open Source, it kind of doesn't have any source code, because you can easily download any version of DFX WinTweaks and modify/fork it using a text editor. Just remember to follow the GPL 3.0 license.
 
 ## 👨‍🎓 License
-DFX WinTweaks is licensed under a GNU General Public License v3.0.
+DFX WinTweaks is licensed under the GNU General Public License v3.0.
 
-**As of November 14, 2022, all DFX WinTweaks releases have been patched with the proper license**
+**Starting from November 14, 2022, all DFX WinTweaks releases have been properly licensed.**
