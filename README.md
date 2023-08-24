@@ -2,6 +2,8 @@
 
 DFX WinTweaks is a simple tool that helps you learn about your computer system and make adjustments to your Windows operating system that go beyond what Microsoft typically allows. It's a work in progress, so new features will be added over time.
 
+**WARNING: I'm not responsible for any issues that might happen on your system. The changes made by DFX WinTweaks are generally minor registry tweaks or service disabling, but use it cautiously.**
+
 **If your security software flags DFX WinTweaks as potentially harmful, you can make an exception for it and trying to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
 
 ## 🐇 Online features
@@ -19,8 +21,6 @@ You can modify the tool to make it work on older Windows versions, but there's n
 - None mentioned.
 
 Keep in mind that DFX WinTweaks might have occasional bugs and problems, i'm actively working to fix everything.
-
-**WARNING: I'm not responsible for any issues that might happen on your system. The changes made by DFX WinTweaks are generally minor registry tweaks or service disabling, but use it cautiously.**
 
 ## 🔆 Language Availability
 Starting from release 2.0, DFX WinTweaks is only available in English.
