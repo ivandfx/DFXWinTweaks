@@ -4,7 +4,7 @@ DFX WinTweaks is a simple tool that helps you learn about your computer system a
 
 **WARNING: I'm not responsible for any issues that might happen on your system. The changes made by DFX WinTweaks are generally minor registry tweaks or service disabling, but use it cautiously.**
 
-**If your security software flags DFX WinTweaks as potentially harmful, you can make an exception for it and trying to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
+**If your security software/browser flags DFX WinTweaks as potentially harmful, you can make an exception for it and trying to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
 
 ## 🐇 Online features
 DFX WinTweaks doesn't need an internet connection to function, except for some online options like reporting issues or visiting the DFX WinTweaks website on GitHub.
