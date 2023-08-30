@@ -10,7 +10,7 @@ DFX WinTweaks is a simple tool that helps you learn about your computer system a
 DFX WinTweaks doesn't need an internet connection to function, except for some online options like reporting issues or visiting the DFX WinTweaks website on GitHub.
 
 ## 💻 System Requirements
-DFX WinTweaks works on Windows 7 and newer versions. It doesn't support Windows Vista, XP, or older systems.
+DFX WinTweaks works on Windows 7 and newer versions. Windows Vista, XP, and older systems are not supported.
 
 **If you use Windows 7 or Windows 8.x, read [this](https://ivandfx.github.io/DFXWinTweaks/posts/fin-sunsetting-nt6.html)**
 
