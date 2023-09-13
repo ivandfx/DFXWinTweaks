@@ -36,9 +36,9 @@ All releases up to version 1.11.2 ESR were based on AikonCWD W10 Script. You can
 If you like DFX WinTweaks, credit goes to [**AikonCWD**](https://github.com/aikoncwd) for creating the script that started everything.
 
 ## ⛲ Source Code
-While DFX WinTweaks is Open Source, it kind of doesn't have any source code, because you can easily download any version of DFX WinTweaks and modify/fork it using a text editor. Just remember to follow the GPL 3.0 license.
+While DFX WinTweaks is Open Source, it kind of doesn't have any source code, because you can easily download any release and modify/fork it using a text editor. Just remember to follow the GPL 3.0 license.
 
 ## 👨‍🎓 License
 DFX WinTweaks is licensed under the GNU General Public License v3.0.
 
-**Starting from November 14, 2022, every DFX WinTweaks release has been properly licensed.**
+**Starting from November 14, 2022, every release has been properly licensed.**
