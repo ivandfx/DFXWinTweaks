@@ -1,3 +1,5 @@
+## NOTE: I'm not working full time on this project, I have other things to do, but I do what I can when I can.
+
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
 DFX WinTweaks is a simple tool that helps you learn about your computer system and make adjustments to your Windows operating system that go beyond what Microsoft typically allows. It's a work in progress, so new features will be added over time.
