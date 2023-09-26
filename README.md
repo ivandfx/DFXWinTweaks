@@ -1,4 +1,4 @@
-### NOTE: I'm not working full time on this project, I have other things to do, but I do what I can when I have spare time to do so.
+### NOTE: I'm not working full time on this project.
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
