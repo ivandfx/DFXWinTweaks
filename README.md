@@ -2,14 +2,14 @@
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
-DFX WinTweaks is a simple tool that helps you learn about your computer system and make adjustments to your Windows operating system that go beyond what Microsoft typically allows. It's a work in progress, so new features will be added over time.
+DFX WinTweaks helps you to tweak your Windows install beyond what Microsoft typically allows you to. It's currently in development, so new features will be added over time.
 
-**WARNING: I'm not responsible for any issues that might happen on your system. The changes made by DFX WinTweaks are generally minor registry tweaks or service disabling, but use it cautiously.**
+**WARNING: I'm not responsible for any issues that might happen on your system. The changes made by DFX WinTweaks are generally minor registry tweaks or service disabling, but use it with caution.**
 
-**If your security software/browser flags DFX WinTweaks as potentially harmful, you can make an exception for it and trying to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
+**If your security software/browser flags DFX WinTweaks as harmful, you can make an exception for it and try to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
 
 ## 🐇 Online features
-DFX WinTweaks doesn't need an internet connection to function, except for some online options like reporting issues or visiting the DFX WinTweaks website on GitHub.
+DFX WinTweaks doesn't need an internet connection to work at wall, except for some online options like reporting issues or visiting the DFX WinTweaks website on GitHub.
 
 ## 💻 System Requirements
 DFX WinTweaks works on Windows 7 and newer versions. Windows Vista, XP, and older systems are not supported.
@@ -20,12 +20,9 @@ DFX WinTweaks works on Windows 7 and newer versions. Windows Vista, XP, and olde
 You can modify the tool to make it work on older Windows versions, but there's no guarantee that everything will work as intended.
 
 ## ❌ Known Issues
-- None mentioned.
+- None, as far as I know.
 
 Keep in mind that DFX WinTweaks might have occasional bugs and problems, i'm actively working to fix everything.
-
-## 🔆 Language Availability
-Starting from release 2.0, DFX WinTweaks is only available in English.
 
 ## 🧀 Why DFX WinTweaks?
 I created DFX WinTweaks because I needed a way to disable Windows Update and Defender. I found AikonCWD W10 Script, a similar tool with more options, but it required an internet connection for most features. I wanted something similar but functional offline. That's why I started this project, and I want to give credit to AikonCWD and their script.
