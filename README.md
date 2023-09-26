@@ -9,7 +9,7 @@ DFX WinTweaks helps you to tweak your Windows install beyond what Microsoft typi
 **If your security software/browser flags DFX WinTweaks as harmful, you can make an exception for it and try to run it again. This might be due to an option that can interfere with Microsoft Defender while it is running. Disabling Microsoft Defender might require you to restart your computer in Safe Mode.**
 
 ## 🐇 Online features
-DFX WinTweaks doesn't need an internet connection to work at wall, except for some online options like reporting issues or visiting the DFX WinTweaks website on GitHub.
+DFX WinTweaks doesn't need an internet connection to work at wall, except for some browser options like reporting issues on GitHub or visiting the website.
 
 ## 💻 System Requirements
 DFX WinTweaks works on Windows 7 and newer versions. Windows Vista, XP, and older systems are not supported.
