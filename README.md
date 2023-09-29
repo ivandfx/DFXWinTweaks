@@ -1,4 +1,4 @@
-### NOTE: I'm not working full time on this project.
+### 🙏 If you find an issue, PLEASE report it.
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
