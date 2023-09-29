@@ -25,7 +25,7 @@ You can modify the tool to make it work on older Windows versions, but there's n
 Keep in mind that DFX WinTweaks might have occasional bugs and problems, i'm actively working to fix everything.
 
 ## 🧀 Why DFX WinTweaks?
-I created DFX WinTweaks because I needed a way to disable Windows Update and Defender. I found AikonCWD W10 Script, a similar tool with more options, but it required an internet connection for most features. I wanted something similar but functional offline. That's why I started this project, and I want to give credit to AikonCWD and their script.
+I created DFX WinTweaks because I needed a way to disable Windows Update and Defender. I found AikonCWD W10 Script, a similar tool with more features, but it required an internet connection for most of them. I wanted something similar but functional offline. That's why I started this project, and I want to give credit to AikonCWD and their script.
 
 If you want the AikonCWD Script, you can find it by scrolling down.
 
