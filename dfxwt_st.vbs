@@ -1,6 +1,7 @@
 On Error Resume Next
 Randomize
 
+Set oADO = CreateObject("Adodb.Stream")
 Set oWSH = CreateObject("WScript.Shell")
 Set oAPP = CreateObject("Shell.Application")
 Set oFSO = CreateObject("Scripting.FileSystemObject")
