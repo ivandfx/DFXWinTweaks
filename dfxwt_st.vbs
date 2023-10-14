@@ -6,8 +6,11 @@ Set oAPP = CreateObject("Shell.Application")
 Set oFSO = CreateObject("Scripting.FileSystemObject")
 Set oWMI = GetObject("winmgmts:\\.\root\CIMV2")
 Set oWEB = CreateObject("MSXML2.ServerXMLHTTP")
-
 strUser = CreateObject("WScript.Network").UserName
+
+currentVersionST = "3.5.0 "
+versionNameST = " DFX WinTweaks 3.5.0 "
+currentFolder  = oFSO.GetParentFolderName(WScript.ScriptFullName)
 
 Call checkNTonStart()
 Call forceConsole()
