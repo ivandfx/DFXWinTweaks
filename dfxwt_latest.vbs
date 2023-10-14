@@ -1,6 +1,7 @@
 On Error Resume Next
 Randomize
 
+Set oADO = CreateObject("Adodb.Stream")
 Set oWSH = CreateObject("WScript.Shell")
 Set oAPP = CreateObject("Shell.Application")
 Set oFSO = CreateObject("Scripting.FileSystemObject")
@@ -1687,7 +1688,7 @@ Function updatedl()
 	If CDbl(Replace(oWEB.responseText, vbcrlf, "")) > CDbl(currentVersion) Then
 		textl "  Download newest version? (y/n): "
 		res = scanf()
-		If res = "s" Then
+		If res = "y" Then
 			textf ""
 			textl "  Downloading... "
 			oWEB.Open "GET", "https://raw.githubusercontent.com/ivandfx/DFXWinTweak/master/dfxwt_latest.vbs", False
