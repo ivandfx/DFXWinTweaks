@@ -9,11 +9,13 @@ Set oWEB = CreateObject("MSXML2.ServerXMLHTTP")
 Set oWMI = GetObject("winmgmts:\\.\root\CIMV2")
 strUser = CreateObject("WScript.Network").UserName
 
+currentVersionST = "3.5.0"
+currentFolder  = oFSO.GetParentFolderName(WScript.ScriptFullName)
+
 Call checkNTonStart()
 Call forceConsole()
 Call runElevated()
 versionDate = " October 14, 2023 "
-currentVersionST = "3.5.0 "
 versionNameST = " DFX WinTweaks 3.5.0 "
 Call startMenu()
 
