@@ -1,24 +1,18 @@
 On Error Resume Next
 Randomize
 
-Set oADO = CreateObject("Adodb.Stream")
 Set oWSH = CreateObject("WScript.Shell")
 Set oAPP = CreateObject("Shell.Application")
 Set oFSO = CreateObject("Scripting.FileSystemObject")
 Set oWMI = GetObject("winmgmts:\\.\root\CIMV2")
-Set oWEB = CreateObject("MSXML2.ServerXMLHTTP")
 strUser = CreateObject("WScript.Network").UserName
-
-currentVersionST = "3.5.0 "
-versionNameST = " DFX WinTweaks 3.5.0 "
-currentFolder  = oFSO.GetParentFolderName(WScript.ScriptFullName)
 
 Call checkNTonStart()
 Call forceConsole()
 Call runElevated()
 versionDate = " September 24, 2023 "
-currentVersionST = "3.5.0 "
-versionNameST = " DFX WinTweaks 3.5.0 "
+currentVersionST = "3.4.4 "
+versionNameST = " DFX WinTweaks 3.4.4 "
 textf "Before using DFX WinTweaks, you should do a Restore Point manually."
 textf "Please wait..."
 wait 5
@@ -49,7 +43,7 @@ Function startMenu()
 	textf " "
 	textf "  6 = Presets Beta"
 	textf " "
-	textf "  88 = Check for updates (Online)					      If you find any issues, type '55'"
+	textf "  88 = Check for a new release						         If you find any issues, type '55'"
 	textf "  99 = Open DFX WinTweaks GitHub						(This will open GitHub on your browser)"
 	textf "  44 = Open DFX WinTweaks Web"
 	textf " "
@@ -69,7 +63,9 @@ Function startMenu()
 			Call dfxmain()	
 		Case 88
 			cls
-			Call updatedl()
+			Call dfxrelease()
+			wait 1
+			Call startMenu
 		Case 99
 			cls
 			Call dfxgithub()
@@ -1690,49 +1686,6 @@ Function seLogonExit()
 	textf "  "
 	wait 2
 	WScript.Quit
-End Function
-
-Function updatedl()
-	On Error Resume Next
-	cls
-	textf" "
-	textf "   ____  _______  __ __        ___     _____                    _        "
-	textf "  |  _ \|  ___\ \/ / \ \      / (_)_ _|_   _|_      _____  __ _| | _____ "
-	textf "  | | | | |_   \  /   \ \ /\ / /| | '_ \| | \ \ /\ / / _ \/ _` | |/ / __|"
-	textf "  | |_| |  _|  /  \    \ V  V / | | | | | |  \ V  V /  __/ (_| |   <\__ \"
-	textf "  |____/|_|   /_/\_\    \_/\_/  |_|_| |_|_|   \_/\_/ \___|\__,_|_|\_\___/"
-	textf "     Created by ivandfx			    Update from GitHub (BETA)"
-	textf " "
-	textf "  Licensed under a GNU General Public License v3.0"
-	textf " "
-	textf " "
-	textf " "
-	textf "  You're running version " & currentVersionST
-	oWEB.Open "GET", "https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/master/update", False
-	oWEB.Send
-	textf "  And the newest one is " & oWEB.responseText
-
-	If CDbl(Replace(oWEB.responseText, vbcrlf, "")) > CDbl(currentVersion) Then
-		textl "  Do you want to update? (y/n): "
-		res = scanf()
-		If res = "y" Then
-			textf ""
-			textl " Downloading update... "
-			oWEB.Open "GET", "https://raw.githubusercontent.com/aikoncwd/win10script/master/dfxwt_st.vbs", False
-			oWEB.Send
-			wait(1)
-			Set F = oFSO.CreateTextFile(WScript.ScriptFullName, 2, True)
-				F.Write oWEB.responseText
-			F.Close
-			textf "OK!"
-			wait(1)
-			oWSH.Run WScript.ScriptFullName
-			WScript.Quit
-		End If
-	Else
-		textf "   Download completed"
-		textf "   Starting DFX WinTweaks version " & currentVersionST
-	End If
 End Function
 
 Function textf(txt)
