@@ -21,9 +21,9 @@ You can modify the tool to make it work on older Windows versions, but there's n
 
 ## ❌ Known Issues
 - Presets don't work as intended and make DFX WT crash entirely. (Working on it)
-- On some menus, returning to the previous menu will crash DFX WT.(Not on the works, but a fix is panned)
+- On some menus, returning to the previous menu will crash DFX WT.(Not on the works, but a fix is planned)
 
-Keep in mind that DFX WinTweaks might have occasional bugs and problems, i'm actively working to fix everything.
+Keep in mind that DFX WinTweaks might have occasional bugs and problems, you can treat it as beta software, because it mostly is, i'm currently working to fix everything that is listed up here.
 
 ## 🧀 Why DFX WinTweaks?
 I created DFX WinTweaks because I needed a way to disable Windows Update and Defender. I found AikonCWD W10 Script, a similar tool with more features, but it required an internet connection for most of them. I wanted something similar but functional offline. That's why I started this project, and I want to give credit to AikonCWD and their script.
