@@ -20,7 +20,8 @@ DFX WinTweaks works on Windows 7 and later. Windows Vista, XP and older are not 
 You can modify the tool to make it work on older Windows versions, but there's no guarantee that everything will work as intended.
 
 ## ❌ Known Issues
-- None, as far as I know.
+- Presets don't work as intended and make DFX WT crash entirely. (Working on it)
+- On some menus, returning to the previous menu will crash DFX WT.(Not on the works, but a fix is panned)
 
 Keep in mind that DFX WinTweaks might have occasional bugs and problems, i'm actively working to fix everything.
 
