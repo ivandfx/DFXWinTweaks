@@ -14,7 +14,7 @@ DFX WinTweaks doesn't need an internet connection to work at all, except for som
 **From version 3.5 onwards, an internet connection will ONLY be required to find updates.**
 
 ## 💻 System Requirements
-DFX WinTweaks works on Windows 7 and later. Windows Vista, XP and older are not supported.
+DFX WinTweaks works on Windows 10 and later. Windows 8.1, 8, 7 (including server variants) and older are no longer supported.
 
 **If you use Windows 7 or Windows 8.x, read [this](https://ivandfx.github.io/DFXWinTweaks/posts/fin-sunsetting-nt6.html)**
 
