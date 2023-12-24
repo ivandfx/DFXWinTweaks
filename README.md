@@ -47,3 +47,5 @@ While DFX WinTweaks is Open Source, it kind of doesn't have any source code, bec
 DFX WinTweaks is licensed under the GNU General Public License v3.0.
 
 **Starting from November 14, 2022, every release has been properly licensed.**
+
+**Fact: The first version of DFX WinTweaks was released on August 1, 2022**
