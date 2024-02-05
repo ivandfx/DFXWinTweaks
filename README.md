@@ -1,7 +1,5 @@
 ### 🙏 If you find an issue, PLEASE report it.
 
-### DFX WinTweaks is no longer under development.
-
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
 
 DFX WinTweaks helps you to tweak your Windows install beyond what Microsoft typically allows you to. It's currently in development, so new features will be added over time.
