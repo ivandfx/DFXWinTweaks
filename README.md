@@ -1,3 +1,4 @@
+### DFX WinTweaks is BACK! Sit down while I prepare the next release... and the new website.
 ### 🙏 If you find an issue, PLEASE report it.
 
 ![](https://raw.githubusercontent.com/ivandfx/DFXWinTweaks/main/images/NEW_github_banner.png)
