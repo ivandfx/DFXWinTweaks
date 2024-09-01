@@ -1,6 +1,6 @@
 ### 🙏 If you find an issue, PLEASE report it.
 
-![]([https://raw.githubusercontent.com/ivandfx.github.io/DFXWinTweaks/icons/download/dfxWT_icon-new.png)
+![]([https://raw.githubusercontent.com/ivandfx.github.io/DFXWinTweaks/icons/download/dfxWT_icon-new.png])
 
 DFX WinTweaks helps you to tweak your Windows install beyond what Microsoft typically allows you to. It's currently in development, so new features will be added over time.
 
