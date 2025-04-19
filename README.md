@@ -1,3 +1,5 @@
+# DFX WinTweaks IS NO LONGER MAINTAINED ❌
+
 ### 🙏 If you find an issue, PLEASE report it.
 
 DFX WinTweaks helps you to tweak your Windows install beyond what Microsoft typically allows you to. It's currently in development, so new features will be added over time. (bugfixes and qol upgrades will be made as well)
